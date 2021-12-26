@@ -1,0 +1,19 @@
+{
+	"ID": "20211226091002-56ei65s",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226091002-56ei65s",
+		"title": "新文档",
+		"updated": "20211226091002"
+	},
+	"Children": [
+		{
+			"ID": "20211226091002-2j547h3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226091002-2j547h3",
+				"updated": "20211226091002"
+			}
+		}
+	]
+}
