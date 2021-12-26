@@ -1,0 +1,798 @@
+{
+	"ID": "20211226121438-xaafdo8",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226121438-xaafdo8",
+		"title": "數據同步",
+		"updated": "20211226153152"
+	},
+	"Children": [
+		{
+			"ID": "20211226121454-8vr6fgn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226121454-8vr6fgn",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "概述"
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-2wnvrmj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226121454-2wnvrmj",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "數據同步指的是在多個設備上保持 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "工作空間/data/"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 文件夾數據一致，包括資源文件、模板、小工具以及筆記本數據。"
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-g3niy0i",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226121454-g3niy0i",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "使用方式"
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-eo49ng8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226121454-eo49ng8",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "打開 "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "設置 - 雲端 - 雲端同步"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ，通過同步設置向導進行操作。"
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-jhgfygm",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20211226121454-jhgfygm",
+				"updated": "20211226010238"
+			},
+			"Children": [
+				{
+					"ID": "20211226121454-uv2o9ya",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20211226121454-uv2o9ya",
+						"updated": "20211226010238"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-jht5wtu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-jht5wtu",
+								"updated": "20211226010238"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "設置端到端加密密碼。"
+								},
+								{
+									"Type": "NodeTag",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeTagOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "注意"
+										},
+										{
+											"Type": "NodeTagCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "：該密碼一旦設置就不支持修改和查看。如果你忘記了該密碼，你的雲端數據將永久丟失，所以請務必牢記該密碼"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-q2nwzs4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20211226121454-q2nwzs4"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-7ui6tey",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-7ui6tey"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "創建或選擇一個雲端同步目錄，選擇以後該雲端同步目錄將用於當前工作空間數據同步"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-rhu91lp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20211226121454-rhu91lp"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-qw10bsb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-qw10bsb"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "選擇同步間隔和同步協議，強烈建議使用默認配置，即自動同步間隔和 SSH 協議"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-ggm3tr1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20211226121454-ggm3tr1"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-upj6vzq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-upj6vzq"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "啟用同步開關"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-z4qs6jx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226121454-z4qs6jx",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "以上操作請先在"
+				},
+				{
+					"Type": "NodeEmphasis",
+					"Data": "em",
+					"Children": [
+						{
+							"Type": "NodeEmA6kOpenMarker",
+							"Data": "*"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "主力"
+						},
+						{
+							"Type": "NodeEmA6kCloseMarker",
+							"Data": "*"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "設備上進行，然後在其他設備上選擇相同的雲端同步目錄，並打開同步開關即可。如果要切換、重命名或者刪除雲端同步目錄，請先在所有設備上關閉同步開關後再操作。"
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-8ay5lbb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226121454-8ay5lbb",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "忽略文件"
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-03u8yy2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226121454-03u8yy2",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如果需要在同步時忽略一些文件，請在文件系統上創建或編輯文本文件 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": " 工作空間/data/.siyuan/syncignore"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "， 其中每一行使用 data 文件夾的相對路徑進行配置，表示忽略文件或文件夾的路徑，支持通配符。例如："
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-yx47k6p",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211226121454-yx47k6p",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"ID": "20211226121454-ptlrqog",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-ptlrqog"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-fhzab8c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-fhzab8c"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "20210808180117-6v0mkxr/**/*"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "： 忽略 data/20210808180117-6v0mkxr 筆記本"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-73oeoyd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-73oeoyd"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-x4g40uq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-x4g40uq"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "assets/*.pdf"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "：忽略 data/assets/ 下的 PDF 文件"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-i5h1wl1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226121454-i5h1wl1",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "工作原理"
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-qo8jhii",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226121454-qo8jhii",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "每隔一段時間（取決於 "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "設置 - 雲端 - 同步 - 間隔"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "），思源會自動比較一次雲端和本地數據版本，根據版本進行相應操作："
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-v4rgxob",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211226121454-v4rgxob",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"ID": "20211226121454-t7668m6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-t7668m6"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-lci1ctl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-lci1ctl"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "如果版本相等則略過"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-mk5pevf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-mk5pevf"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-s9uvmqy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-s9uvmqy"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "如果雲端版本大於本地版本，則將雲端數據下載到本地並解密到 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "工作空間/data/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 文件夾下，本地被覆蓋或者刪除的文件會移動到 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "工作空間/.siyuan/history/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 文件夾下"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-rmdap08",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-rmdap08"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-o5x53rx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-o5x53rx"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "如果雲端版本小於本地，則掃描 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "/工作空間/data/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 變更，然後將變更加密複製到 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "工作空間/sync/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 文件夾下，最後進行上傳並覆蓋雲端數據"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-0nlneiq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226121454-0nlneiq",
+				"updated": "20211226010158"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "注意"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226121454-kv5itch",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211226121454-kv5itch",
+				"updated": "20211226153152"
+			},
+			"Children": [
+				{
+					"ID": "20211226121454-46fn8qa",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-46fn8qa"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-lyed3f2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-lyed3f2"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在不改變密碼的情況下，數據是進行增量傳輸的"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-4vhcu0v",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-4vhcu0v"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-f8zn2s6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-f8zn2s6"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "重命名或刪除雲端目錄前，請在所有設備上關閉同步後再修改或刪除"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-150ti1m",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-150ti1m"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-vtdl325",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-vtdl325"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "請勿同時使用第三方同步盤和思源同步，可能會導致數據損壞"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226121454-99w8h02",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226121454-99w8h02",
+						"updated": "20211226153152"
+					},
+					"Children": [
+						{
+							"ID": "20211226121454-4s0b9k4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226121454-4s0b9k4",
+								"updated": "20211226153152"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "符號連結不會被同步"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

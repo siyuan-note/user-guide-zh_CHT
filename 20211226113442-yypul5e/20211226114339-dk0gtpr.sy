@@ -1,0 +1,350 @@
+{
+	"ID": "20211226114339-dk0gtpr",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f4c4",
+		"id": "20211226114339-dk0gtpr",
+		"title": "隱私條款和使用授權",
+		"updated": "20211226155901"
+	},
+	"Children": [
+		{
+			"ID": "20211226114859-akdz5kj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226114859-akdz5kj",
+				"updated": "20211225211904"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "隱私條款"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-qugcvrh",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211226114859-qugcvrh",
+				"updated": "20211225211904"
+			},
+			"Children": [
+				{
+					"ID": "20211226114859-3aowl6g",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226114859-3aowl6g"
+					},
+					"Children": [
+						{
+							"ID": "20211226114859-tp03auw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226114859-tp03auw"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "所有數據都保存在用戶自己完全控制的設備上"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226114859-lzsunx2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226114859-lzsunx2"
+					},
+					"Children": [
+						{
+							"ID": "20211226114859-hrvp9bn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226114859-hrvp9bn"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "不會收集任何使用數據"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-duyyzqa",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226114859-duyyzqa",
+				"updated": "20211225211904"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "用戶授權協議"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-fiksy0z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226114859-fiksy0z",
+				"updated": "20211225211949"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "本授權協議適用且僅適用於思源筆記（以下簡稱為“本軟體”），雲南鏈滴科技有限公司對本授權協議擁有最終解釋權。"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-vstswwc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226114859-vstswwc",
+				"updated": "20211225211957"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "你一旦確認本協議並開始使用本軟體，即被視為完全理解並接受本協議的各項條款。電子文本形式的授權協議如同雙方書面簽署的協議一樣，具有完全的和等同的法律效力。"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-bfbide6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226114859-bfbide6",
+				"updated": "20211225211904"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在享有條款授予的權力的同時，受到相關的約束和限制。協議許可範圍以外的行為，將直接違反本授權協議並構成侵權，我們有權隨時終止授權，責令停止損害，並保留追究相關責任的權力。"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-corx8c3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226114859-corx8c3",
+				"updated": "20211225211904"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "協議許可的權利"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-a3b9wwl",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20211226114859-a3b9wwl",
+				"updated": "20211226155857"
+			},
+			"Children": [
+				{
+					"ID": "20211226114859-wlnodhn",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20211226114859-wlnodhn",
+						"updated": "20211225212010"
+					},
+					"Children": [
+						{
+							"ID": "20211226114859-zcz84k5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226114859-zcz84k5",
+								"updated": "20211225212010"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "你可以在協議規定的約束和限制範圍內使用本軟體"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226114859-e5z7qwr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20211226114859-e5z7qwr",
+						"updated": "20211226155857"
+					},
+					"Children": [
+						{
+							"ID": "20211226114859-vc6o7h3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226114859-vc6o7h3",
+								"updated": "20211226155857"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "你擁有使用本軟體所撰寫的內容的所有權，並獨立承擔與這些內容的相關法律義務"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-of8g76m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226114859-of8g76m",
+				"updated": "20211225211904"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "協議規定的約束和限制"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-0sk68d6",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20211226114859-0sk68d6",
+				"updated": "20211226155901"
+			},
+			"Children": [
+				{
+					"ID": "20211226114859-detad8q",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20211226114859-detad8q",
+						"updated": "20211226155901"
+					},
+					"Children": [
+						{
+							"ID": "20211226114859-oxeo0i5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226114859-oxeo0i5",
+								"updated": "20211226155901"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "未經官方許可，禁止在本軟體的整體或任何部分基礎上發展派生版本、修改版本或第三方版本用於重新分發"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226114859-sfuq3md",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20211226114859-sfuq3md"
+					},
+					"Children": [
+						{
+							"ID": "20211226114859-ex8q0z0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226114859-ex8q0z0"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "如果你未能遵守本協議的條款，你的授權將被終止，所被許可的權利將被收回，並承擔相應法律責任"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-0acm642",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226114859-0acm642",
+				"updated": "20211225211904"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "有限擔保和免責聲明"
+				}
+			]
+		},
+		{
+			"ID": "20211226114859-r8cc0f0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226114859-r8cc0f0",
+				"updated": "20211225212019"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "本軟體及所附帶的文件是作為不提供任何明確的或隱含的賠償或擔保的形式提供的。"
+				}
+			]
+		}
+	]
+}
