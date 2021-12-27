@@ -1,0 +1,519 @@
+{
+	"ID": "20211226122358-hctqcn5",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226122358-hctqcn5",
+		"title": "Kernel參數",
+		"updated": "20211226145747"
+	},
+	"Children": [
+		{
+			"ID": "20211226122447-mz36qeo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226122447-mz36qeo",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--workspace"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-zrnua6j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-zrnua6j",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "用於指定工作空間文件夾路徑，不指定時的默認值是 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "~/Documents/SiYuan/"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-zfdaq9r",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226122447-zfdaq9r",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--wd"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-8jh9v5s",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-8jh9v5s",
+				"updated": "20211226122436"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Kernel工作目錄路徑，不指定時按Kernel可執行文件入口自動獲取。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-mirgvzb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226122447-mirgvzb",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--servePath"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-shmk0d2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-shmk0d2",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "用於指定伺服路徑（host:port），默認值為 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "window.location.hostname+\":6806\""
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-2219swd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-2219swd",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "例如需要通過域名訪問時，請將該值設置為 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "yourdomain.com"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，端口留空則表示使用協議默認端口，需要通過 NGINX 反向代理請求到 6806 端口。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-8tgkcep",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226122447-8tgkcep",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--resident"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-kbcejv5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-kbcejv5",
+				"updated": "20211226011055"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "使用 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--resident=true"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 指定後Kernel將常駐內存，默認 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "true"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-wpeb408",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-wpeb408",
+				"updated": "20211226011108"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "設置為 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "false"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 後會每隔 30 秒檢查一次活動會話列表，如果沒有活動會話則退出Kernel進程。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-bs6e25j",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226122447-bs6e25j",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--readonly"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-3obspkw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-3obspkw",
+				"updated": "20211226011122"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "使用 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--readonly=true"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 指定後Kernel將以唯讀模式運行，所有寫入操作將被禁止。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-k8827y1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226122447-k8827y1",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--accessAuthCode"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-5lookgq",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-5lookgq",
+				"updated": "20211226145747"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "用於指定瀏覽器訪問"
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20211226122545-lsv6dhu"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefDynamicText",
+							"Data": "鑒權密碼"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，設置後會覆蓋 conf.json 中的 authCode。"
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-0c1fqp7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211226122447-0c1fqp7",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--ssl"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226122447-rpubgbb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226122447-rpubgbb",
+				"updated": "20211226011025"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "使用 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--ssl=true"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 後將使用 https 和 wss 協議進行伺服。"
+				}
+			]
+		}
+	]
+}

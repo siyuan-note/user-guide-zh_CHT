@@ -1,0 +1,96 @@
+{
+	"ID": "20211226122754-07b4e5a",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226122754-07b4e5a",
+		"title": "幻燈片展示",
+		"updated": "20211226013106"
+	},
+	"Children": [
+		{
+			"ID": "20211226122805-ckpd84v",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211226122805-ckpd84v",
+				"updated": "20211226013106"
+			},
+			"Children": [
+				{
+					"ID": "20211226122805-2bzrwno",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226122805-2bzrwno"
+					},
+					"Children": [
+						{
+							"ID": "20211226122805-ybzd4x9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226122805-ybzd4x9"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用分隔線 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "---"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 對文檔進行分隔，分隔後的每一部分將作為幻燈片的一頁"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226122805-bfrkfrr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226122805-bfrkfrr",
+						"updated": "20211226013106"
+					},
+					"Children": [
+						{
+							"ID": "20211226122805-lvsg7s4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226122805-lvsg7s4",
+								"updated": "20211226013106"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "通過在文檔樹上右鍵文檔下拉菜單打開幻燈片展示"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

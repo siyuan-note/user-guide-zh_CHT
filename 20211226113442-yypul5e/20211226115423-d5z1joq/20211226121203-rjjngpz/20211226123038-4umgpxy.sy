@@ -1,0 +1,483 @@
+{
+	"ID": "20211226123038-4umgpxy",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226123038-4umgpxy",
+		"title": "資源文件",
+		"updated": "20211226160821"
+	},
+	"Children": [
+		{
+			"ID": "20211226123051-arn57f1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226123051-arn57f1",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "概述"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-wvk5a7h",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-wvk5a7h",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "通過編輯器插入的附件會被認為是資源文件，默認放置在工作空間 data/assets 文件夾下。"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-ddr3yub",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226123051-ddr3yub",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "插入圖片"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-zdhnfws",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-zdhnfws",
+				"updated": "20211226013622"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在編輯器中可以直接貼上系統剪貼簿中複製好的圖片，或者通過拖拽圖片文件到編輯器中也可以實現圖片插入。"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-yczpz86",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-yczpz86",
+				"updated": "20211226013634"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如果排版時指定了圖片標題，則標題會被渲染在圖片下方作為圖注。"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-2p8rbm4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-2p8rbm4",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "siyuan-128.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/siyuan-128-20210604092205-djd749a.png"
+						},
+						{
+							"Type": "NodeLinkSpace"
+						},
+						{
+							"Type": "NodeLinkTitle",
+							"Data": "源於思考，飲水思源"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-5250xg7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226123051-5250xg7",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "清理未引用資源"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-2aa4sf6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-2aa4sf6",
+				"updated": "20211226160821"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "“引用”指的是通過超連結、插入圖片或者 HTML 標簽（例如 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\u003cimg\u003e"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 、"
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\u003ciframe\u003e"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "）的屬性 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "src"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 對資源文件進行連接。這裡分為兩種情況："
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-1qp7a9g",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20211226123051-1qp7a9g",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"ID": "20211226123051-mmn60x5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20211226123051-mmn60x5"
+					},
+					"Children": [
+						{
+							"ID": "20211226123051-p8dr1dy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226123051-p8dr1dy"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "引用具體的資源文件，比如圖片或者文件"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226123051-0az1yw2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20211226123051-0az1yw2"
+					},
+					"Children": [
+						{
+							"ID": "20211226123051-heoyfe2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226123051-heoyfe2"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "引用資源文件夾（在 assets 文件夾下的子文件夾），必須以 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 結尾，比如 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "[foo](assets/bar/)"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-8ftluwy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-8ftluwy",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第二種情況比較特殊：一個資源文件夾如果被引用，則下面所有資源文件無論是否被單獨引用，都會被算作已經引用。"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-tkps9jc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-tkps9jc",
+				"updated": "20211226150535"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在 "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "設置"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " - "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "資源"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 中可以一鍵清理未引用資源，如果需要找回被誤刪的文件，請通過"
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20211226122720-u1qd8zw"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefDynamicText",
+							"Data": "回滾(rollback)"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-hxu6z1g",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-hxu6z1g",
+				"updated": "20211226013736"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "注意"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "：使用絕對路徑（本地路徑或者是網絡路徑）不會納入清理計算。"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-p8lstwb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211226123051-p8lstwb",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "筆記本 assets"
+				}
+			]
+		},
+		{
+			"ID": "20211226123051-hzcggdl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226123051-hzcggdl",
+				"updated": "20211226013452"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如果需要默認將插入的資源文件放置在文檔同級 assets 文件夾下，則需要先手動創建名為 assets 的文件夾，這樣思源會優先選擇該 assets 文件夾來存放資源文件。"
+				}
+			]
+		}
+	]
+}
