@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226120247-63nd8y5",
 		"title": "引用内容塊",
-		"updated": "20211226153619"
+		"updated": "20211227210423"
 	},
 	"Children": [
 		{
@@ -268,7 +268,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226120337-ugzfcwd",
-				"updated": "20211226153312"
+				"updated": "20211227210423"
 			},
 			"Children": [
 				{
@@ -280,7 +280,7 @@
 					},
 					"Properties": {
 						"id": "20211226120337-063naya",
-						"updated": "20211226153312"
+						"updated": "20211227210417"
 					},
 					"Children": [
 						{
@@ -288,7 +288,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226120337-eq78a5a",
-								"updated": "20211226153312"
+								"updated": "20211227210417"
 							},
 							"Children": [
 								{
@@ -309,7 +309,7 @@
 											"Type": "NodeBlockRefSpace"
 										},
 										{
-											"Type": "NodeBlockRefDynamicText",
+											"Type": "NodeBlockRefText",
 											"Data": "關系圖"
 										},
 										{
@@ -337,7 +337,7 @@
 					},
 					"Properties": {
 						"id": "20211226120337-5t8nuey",
-						"updated": "20211226153307"
+						"updated": "20211227210423"
 					},
 					"Children": [
 						{
@@ -345,7 +345,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226120337-ajml6vu",
-								"updated": "20211226153307"
+								"updated": "20211227210423"
 							},
 							"Children": [
 								{
@@ -366,7 +366,7 @@
 											"Type": "NodeBlockRefSpace"
 										},
 										{
-											"Type": "NodeBlockRefDynamicText",
+											"Type": "NodeBlockRefText",
 											"Data": "反向連結"
 										},
 										{
