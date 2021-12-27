@@ -403,7 +403,7 @@
 							"Type": "NodeBlockRefSpace"
 						},
 						{
-							"Type": "NodeBlockRefDynamicText",
+							"Type": "NodeBlockRefText",
 							"Data": "回滾(rollback)"
 						},
 						{

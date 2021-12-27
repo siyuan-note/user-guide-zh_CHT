@@ -186,7 +186,7 @@
 											"Type": "NodeBlockRefSpace"
 										},
 										{
-											"Type": "NodeBlockRefDynamicText",
+											"Type": "NodeBlockRefText",
 											"Data": "模板片段"
 										},
 										{
@@ -1076,7 +1076,7 @@
 							"Type": "NodeBlockRefSpace"
 						},
 						{
-							"Type": "NodeBlockRefDynamicText",
+							"Type": "NodeBlockRefText",
 							"Data": "在瀏覽器上使用"
 						},
 						{

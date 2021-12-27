@@ -159,7 +159,7 @@
 							"Type": "NodeBlockRefSpace"
 						},
 						{
-							"Type": "NodeBlockRefDynamicText",
+							"Type": "NodeBlockRefText",
 							"Data": "嵌入內容塊"
 						},
 						{

@@ -253,7 +253,7 @@
 							"Type": "NodeBlockRefSpace"
 						},
 						{
-							"Type": "NodeBlockRefDynamicText",
+							"Type": "NodeBlockRefText",
 							"Data": "端到端加密"
 						},
 						{
