@@ -489,7 +489,7 @@
 							"Type": "NodeBlockRefSpace"
 						},
 						{
-							"Type": "NodeBlockRefDynamicText",
+							"Type": "NodeBlockRefText",
 							"Data": "編輯歷史"
 						},
 						{
@@ -1109,7 +1109,7 @@
 							"Type": "NodeBlockRefSpace"
 						},
 						{
-							"Type": "NodeBlockRefDynamicText",
+							"Type": "NodeBlockRefText",
 							"Data": "Kernel API"
 						},
 						{
