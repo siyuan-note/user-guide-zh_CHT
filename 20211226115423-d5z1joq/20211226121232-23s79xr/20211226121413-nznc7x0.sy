@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226121413-nznc7x0",
-		"title": "數據備份和恢復",
-		"updated": "20211226010539"
+		"title": "資料備份和恢復",
+		"updated": "20211228141658"
 	},
 	"Children": [
 		{
@@ -99,7 +99,7 @@
 			},
 			"Properties": {
 				"id": "20211226121432-tfz9877",
-				"updated": "20211226010539"
+				"updated": "20211228141222"
 			},
 			"Children": [
 				{
@@ -180,14 +180,16 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20211226121432-1u0ree0"
+						"id": "20211226121432-1u0ree0",
+						"updated": "20211228133514"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-8u5ygww",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-8u5ygww"
+								"id": "20211226121432-8u5ygww",
+								"updated": "20211228133514"
 							},
 							"Children": [
 								{
@@ -228,7 +230,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "，備份完成後會彈框提示是否上傳，選擇 "
+									"Data": "，備份完成後會彈出視窗提示是否上傳，選擇 "
 								},
 								{
 									"Type": "NodeKbd",
@@ -260,19 +262,21 @@
 						"Num": 3
 					},
 					"Properties": {
-						"id": "20211226121432-1bmfiqi"
+						"id": "20211226121432-1bmfiqi",
+						"updated": "20211228141222"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-bg7mbtb",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-bg7mbtb"
+								"id": "20211226121432-bg7mbtb",
+								"updated": "20211228141222"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "上傳完成以後雲端會存在一份和本地備份相同的加密數據"
+									"Data": "上傳完成以後雲端會存在一份和本地備份相同的加密資料"
 								}
 							]
 						}
@@ -300,7 +304,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121432-t16ldqq",
-				"updated": "20211226010539"
+				"updated": "20211228141557"
 			},
 			"Children": [
 				{
@@ -325,7 +329,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 文件夾下加密過的數據恢復到 "
+					"Data": " 文件夾下加密過的資料恢復到 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -372,7 +376,7 @@
 			},
 			"Properties": {
 				"id": "20211226121432-p59r7ul",
-				"updated": "20211226010539"
+				"updated": "20211228133519"
 			},
 			"Children": [
 				{
@@ -453,14 +457,16 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20211226121432-z94elg7"
+						"id": "20211226121432-z94elg7",
+						"updated": "20211228133519"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-aunx20t",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-aunx20t"
+								"id": "20211226121432-aunx20t",
+								"updated": "20211228133519"
 							},
 							"Children": [
 								{
@@ -501,7 +507,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "，下載完成後會彈框提示是否恢復，選擇 "
+									"Data": "，下載完成後會彈出視窗提示是否恢復，選擇 "
 								},
 								{
 									"Type": "NodeKbd",
@@ -586,7 +592,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121432-vk1p2ti",
-				"updated": "20211226010539"
+				"updated": "20211228141446"
 			},
 			"Children": [
 				{
@@ -597,19 +603,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121432-ybod3bl"
+						"id": "20211226121432-ybod3bl",
+						"updated": "20211228141434"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-enyxopn",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-enyxopn"
+								"id": "20211226121432-enyxopn",
+								"updated": "20211228141434"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "備份數據默認存放在 "
+									"Data": "備份資料預設存放在 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -643,19 +651,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121432-0mjndvh"
+						"id": "20211226121432-0mjndvh",
+						"updated": "20211228141437"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-8v0c4ao",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-8v0c4ao"
+								"id": "20211226121432-8v0c4ao",
+								"updated": "20211228141437"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "請勿使用第三方同步盤同步該文件夾，否則可能會造成數據損壞"
+									"Data": "請勿使用第三方同步碟同步該文件夾，否則可能會造成資料損壞"
 								}
 							]
 						}
@@ -669,19 +679,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121432-c653lc8"
+						"id": "20211226121432-c653lc8",
+						"updated": "20211228141440"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-zdxfc6j",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-zdxfc6j"
+								"id": "20211226121432-zdxfc6j",
+								"updated": "20211228141440"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "在不改變密碼的情況下，數據是進行增量傳輸的"
+									"Data": "在不改變密碼的情況下，資料是進行增量傳輸的"
 								}
 							]
 						}
@@ -695,19 +707,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121432-nhe3knq"
+						"id": "20211226121432-nhe3knq",
+						"updated": "20211228141443"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-r67mbqo",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-r67mbqo"
+								"id": "20211226121432-r67mbqo",
+								"updated": "20211228141443"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "密碼務必牢記，沒有密碼無法恢復數據，且密碼無法清空或找回"
+									"Data": "密碼務必牢記，沒有密碼無法恢復資料，且密碼無法清空或找回"
 								}
 							]
 						}
@@ -721,19 +735,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121432-geavq00"
+						"id": "20211226121432-geavq00",
+						"updated": "20211228141446"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-jzl32l3",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-jzl32l3"
+								"id": "20211226121432-jzl32l3",
+								"updated": "20211228141446"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "從備份恢復後當前工作空間數據會被覆蓋，且無法恢復，使用備份恢復前請務必進行確認"
+									"Data": "從備份恢復後當前工作空間資料會被覆蓋，且無法恢復，使用備份恢復前請務必進行確認"
 								}
 							]
 						}

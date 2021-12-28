@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226120802-77aj0is",
 		"title": "内容塊屬性",
-		"updated": "20211226160720"
+		"updated": "20211228141553"
 	},
 	"Children": [
 		{
@@ -355,12 +355,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226120833-txlspf2",
-				"updated": "20211226160720"
+				"updated": "20211228141553"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "屬性主要有兩個使用場景：根據屬性查詢內容塊和存儲小工具數據。"
+					"Data": "屬性主要有兩個使用場景：根據屬性查詢內容塊和存儲小工具資料。"
 				}
 			]
 		},
@@ -466,12 +466,12 @@
 			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20211226120833-6qo8iwk",
-				"updated": "20211226000814"
+				"updated": "20211228141304"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "存儲小工具數據"
+					"Data": "存儲小工具資料"
 				}
 			]
 		},

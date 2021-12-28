@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226121633-qa2fjpl",
-		"title": "圖標",
-		"updated": "20211226003711"
+		"title": "圖示",
+		"updated": "20211228134344"
 	},
 	"Children": [
 		{
@@ -30,7 +30,7 @@
 			},
 			"Properties": {
 				"id": "20211226121706-viwqv34",
-				"updated": "20211226003711"
+				"updated": "20211228132256"
 			},
 			"Children": [
 				{
@@ -43,19 +43,21 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211226121706-n9kakhb"
+						"id": "20211226121706-n9kakhb",
+						"updated": "20211228132256"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-g9uohcq",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-g9uohcq"
+								"id": "20211226121706-g9uohcq",
+								"updated": "20211228132256"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "獲取圖標並解壓"
+									"Data": "獲取圖示並解壓"
 								}
 							]
 						}
@@ -71,14 +73,16 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20211226121706-ootzuph"
+						"id": "20211226121706-ootzuph",
+						"updated": "20211228132142"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-6n2dls5",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-6n2dls5"
+								"id": "20211226121706-6n2dls5",
+								"updated": "20211228132142"
 							},
 							"Children": [
 								{
@@ -130,7 +134,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "圖標"
+											"Data": "圖示"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -150,7 +154,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "打開圖標文件夾"
+											"Data": "打開圖示文件夾"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -171,19 +175,21 @@
 						"Num": 3
 					},
 					"Properties": {
-						"id": "20211226121706-cjiiqj2"
+						"id": "20211226121706-cjiiqj2",
+						"updated": "20211228132136"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-m55tryw",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-m55tryw"
+								"id": "20211226121706-m55tryw",
+								"updated": "20211228132136"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "將圖標拷貝到該文件夾中"
+									"Data": "將圖示拷貝到該文件夾中"
 								}
 							]
 						}
@@ -199,14 +205,16 @@
 						"Num": 4
 					},
 					"Properties": {
-						"id": "20211226121706-p79zg01"
+						"id": "20211226121706-p79zg01",
+						"updated": "20211228132121"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-6c40bbw",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-6c40bbw"
+								"id": "20211226121706-6c40bbw",
+								"updated": "20211228132121"
 							},
 							"Children": [
 								{
@@ -262,7 +270,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "圖標"
+											"Data": "圖示"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -271,7 +279,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 中選擇安裝好的圖標"
+									"Data": " 中選擇安裝好的圖示"
 								}
 							]
 						}
@@ -317,7 +325,7 @@
 			},
 			"Properties": {
 				"id": "20211226121706-eq30hv9",
-				"updated": "20211226003711"
+				"updated": "20211228132132"
 			},
 			"Children": [
 				{
@@ -330,19 +338,21 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211226121706-390wgpr"
+						"id": "20211226121706-390wgpr",
+						"updated": "20211228132123"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-5d1phdw",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-5d1phdw"
+								"id": "20211226121706-5d1phdw",
+								"updated": "20211228132123"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "為你的圖標取一個好聽的名字，如 "
+									"Data": "為你的圖示取一個好聽的名字，如 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -374,14 +384,16 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20211226121706-stiax8d"
+						"id": "20211226121706-stiax8d",
+						"updated": "20211228132129"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-803vms9",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-803vms9"
+								"id": "20211226121706-803vms9",
+								"updated": "20211228132129"
 							},
 							"Children": [
 								{
@@ -433,7 +445,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "圖標"
+											"Data": "圖示"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -453,7 +465,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "打開圖標文件夾"
+											"Data": "打開圖示文件夾"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -628,14 +640,16 @@
 						"Num": 4
 					},
 					"Properties": {
-						"id": "20211226121706-eh81jum"
+						"id": "20211226121706-eh81jum",
+						"updated": "20211228132132"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-k6bf85p",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-k6bf85p"
+								"id": "20211226121706-k6bf85p",
+								"updated": "20211228132132"
 							},
 							"Children": [
 								{
@@ -660,7 +674,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 文件，貼入制作完成的圖標"
+									"Data": " 文件，貼入制作完成的圖示"
 								}
 							]
 						}
@@ -676,14 +690,16 @@
 						"Num": 5
 					},
 					"Properties": {
-						"id": "20211226121706-o93muxl"
+						"id": "20211226121706-o93muxl",
+						"updated": "20211228132107"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-1nrmdby",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-1nrmdby"
+								"id": "20211226121706-1nrmdby",
+								"updated": "20211228132107"
 							},
 							"Children": [
 								{
@@ -739,7 +755,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "圖標"
+											"Data": "圖示"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -748,7 +764,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 中選擇安裝好的圖標"
+									"Data": " 中選擇安裝好的圖示"
 								}
 							]
 						}
@@ -762,12 +778,12 @@
 			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20211226121706-zbziv46",
-				"updated": "20211226003843"
+				"updated": "20211228131615"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "圖標的制作"
+					"Data": "圖示的制作"
 				}
 			]
 		},
@@ -777,7 +793,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121706-kvmedbk",
-				"updated": "20211226004002"
+				"updated": "20211228132320"
 			},
 			"Children": [
 				{
@@ -788,19 +804,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121706-egus4dt"
+						"id": "20211226121706-egus4dt",
+						"updated": "20211228131619"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-ki3mdm9",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-ki3mdm9"
+								"id": "20211226121706-ki3mdm9",
+								"updated": "20211228131619"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "使用瀏覽器打開圖標文件夾中的 "
+									"Data": "使用瀏覽器打開圖示文件夾中的 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -835,19 +853,20 @@
 					},
 					"Properties": {
 						"id": "20211226121706-f5980kq",
-						"updated": "20211226004002"
+						"updated": "20211228132109"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-dtyrj7y",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-dtyrj7y"
+								"id": "20211226121706-dtyrj7y",
+								"updated": "20211228132109"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "根據圖標名稱和形狀制作相似的圖標"
+									"Data": "根據圖示名稱和形狀制作相似的圖示"
 								}
 							]
 						},
@@ -857,7 +876,7 @@
 							"ListData": {},
 							"Properties": {
 								"id": "20211226121706-5yw4cxg",
-								"updated": "20211226004002"
+								"updated": "20211228131750"
 							},
 							"Children": [
 								{
@@ -869,7 +888,7 @@
 									},
 									"Properties": {
 										"id": "20211226121706-pum5fkr",
-										"updated": "20211226004002"
+										"updated": "20211228131628"
 									},
 									"Children": [
 										{
@@ -877,7 +896,7 @@
 											"Type": "NodeParagraph",
 											"Properties": {
 												"id": "20211226121706-6yuqaev",
-												"updated": "20211226004002"
+												"updated": "20211228131628"
 											},
 											"Children": [
 												{
@@ -912,7 +931,7 @@
 												},
 												{
 													"Type": "NodeText",
-													"Data": " 搜索喜歡的圖標，下載 SVG 格式"
+													"Data": " 搜索喜歡的圖示，下載 SVG 格式"
 												}
 											]
 										}
@@ -926,19 +945,21 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121706-64s9mpp"
+										"id": "20211226121706-64s9mpp",
+										"updated": "20211228131750"
 									},
 									"Children": [
 										{
 											"ID": "20211226121706-m28f4pg",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121706-m28f4pg"
+												"id": "20211226121706-m28f4pg",
+												"updated": "20211228131750"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "使用矢量圖工具自行制作 SVG 格式的圖標"
+													"Data": "使用矢量圖工具自行制作 SVG 格式的圖示"
 												}
 											]
 										}
@@ -1012,7 +1033,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121706-qvrybsd"
+						"id": "20211226121706-qvrybsd",
+						"updated": "20211228132320"
 					},
 					"Children": [
 						{
@@ -1079,7 +1101,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20211226121706-e1i5k0q"
+								"id": "20211226121706-e1i5k0q",
+								"updated": "20211228132320"
 							},
 							"Children": [
 								{
@@ -1136,19 +1159,21 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121706-h3b1jw3"
+										"id": "20211226121706-h3b1jw3",
+										"updated": "20211228132114"
 									},
 									"Children": [
 										{
 											"ID": "20211226121706-isv4pm9",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121706-isv4pm9"
+												"id": "20211226121706-isv4pm9",
+												"updated": "20211228132114"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "選中圖標並生成 SVG\n"
+													"Data": "選中圖示並生成 SVG\n"
 												},
 												{
 													"Type": "NodeImage",
@@ -1246,14 +1271,16 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121706-kplyhyj"
+										"id": "20211226121706-kplyhyj",
+										"updated": "20211228132320"
 									},
 									"Children": [
 										{
 											"ID": "20211226121706-rkodjh5",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121706-rkodjh5"
+												"id": "20211226121706-rkodjh5",
+												"updated": "20211228132320"
 											},
 											"Children": [
 												{
@@ -1318,7 +1345,7 @@
 												},
 												{
 													"Type": "NodeText",
-													"Data": " 對應的圖標名"
+													"Data": " 對應的圖示名"
 												}
 											]
 										}
@@ -1402,7 +1429,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121706-ets836b"
+						"id": "20211226121706-ets836b",
+						"updated": "20211228132158"
 					},
 					"Children": [
 						{
@@ -1423,7 +1451,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20211226121706-3p62uc8"
+								"id": "20211226121706-3p62uc8",
+								"updated": "20211228132158"
 							},
 							"Children": [
 								{
@@ -1542,19 +1571,21 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121706-uaro31g"
+										"id": "20211226121706-uaro31g",
+										"updated": "20211228123947"
 									},
 									"Children": [
 										{
 											"ID": "20211226121706-dmaywdv",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121706-dmaywdv"
+												"id": "20211226121706-dmaywdv",
+												"updated": "20211228123947"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "刷新 "
+													"Data": "重新整理 "
 												},
 												{
 													"Type": "NodeCodeSpan",
@@ -1588,14 +1619,16 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121706-0rhdmda"
+										"id": "20211226121706-0rhdmda",
+										"updated": "20211228132158"
 									},
 									"Children": [
 										{
 											"ID": "20211226121706-wnzuk4o",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121706-wnzuk4o"
+												"id": "20211226121706-wnzuk4o",
+												"updated": "20211228132158"
 											},
 											"Children": [
 												{
@@ -1651,7 +1684,7 @@
 														},
 														{
 															"Type": "NodeText",
-															"Data": "圖標"
+															"Data": "圖示"
 														},
 														{
 															"Type": "NodeKbdCloseMarker"
@@ -1660,7 +1693,7 @@
 												},
 												{
 													"Type": "NodeText",
-													"Data": " 中選擇開發完成的圖標進行查看"
+													"Data": " 中選擇開發完成的圖示進行查看"
 												}
 											]
 										}
@@ -1678,12 +1711,12 @@
 			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20211226121706-yo7ar0b",
-				"updated": "20211226004130"
+				"updated": "20211228131800"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "上架圖標集市"
+					"Data": "上架圖示集市"
 				}
 			]
 		},
@@ -1692,12 +1725,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121706-jfd8xjp",
-				"updated": "20211226004254"
+				"updated": "20211228131802"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "上架前請確認你的圖標倉庫根路徑下至少包含以下文件："
+					"Data": "上架前請確認你的圖示倉庫根路徑下至少包含以下文件："
 				}
 			]
 		},
@@ -1821,7 +1854,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121706-2o47mtr",
-				"updated": "20211226004254"
+				"updated": "20211228132248"
 			},
 			"Children": [
 				{
@@ -1886,7 +1919,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "，修改 icons.json 文件。該文件是所有社區圖標倉庫的索引，格式為："
+					"Data": "，修改 icons.json 文件。該文件是所有社區圖示倉庫的索引，格式為："
 				}
 			]
 		},
@@ -1922,7 +1955,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121706-lx0pvpc",
-				"updated": "20211226004254"
+				"updated": "20211228132216"
 			},
 			"Children": [
 				{
@@ -1947,7 +1980,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 請填寫你的圖標倉庫上最近一次發布版本的 Git 提交hash values，請使用完整hash values，不要使用 7 位短值。"
+					"Data": " 請填寫你的圖示倉庫上最近一次發布版本的 Git 提交hash values，請使用完整hash values，不要使用 7 位短值。"
 				}
 			]
 		},
@@ -1971,12 +2004,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121706-heb6pi9",
-				"updated": "20211226004254"
+				"updated": "20211228132218"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "如果你開發的圖標更新了版本，請記得："
+					"Data": "如果你開發的圖示更新了版本，請記得："
 				}
 			]
 		},
@@ -1986,7 +2019,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121706-p99s23h",
-				"updated": "20211226004254"
+				"updated": "20211228134344"
 			},
 			"Children": [
 				{
@@ -1997,19 +2030,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121706-3rj23r4"
+						"id": "20211226121706-3rj23r4",
+						"updated": "20211228134344"
 					},
 					"Children": [
 						{
 							"ID": "20211226121706-1vg7mj3",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121706-1vg7mj3"
+								"id": "20211226121706-1vg7mj3",
+								"updated": "20211228134344"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "更新你的圖標配置 icon.json 中的 version 字段"
+									"Data": "更新你的圖示配置 icon.json 中的 version 欄位"
 								}
 							]
 						}

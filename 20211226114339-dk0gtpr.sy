@@ -5,7 +5,7 @@
 		"icon": "1f4c4",
 		"id": "20211226114339-dk0gtpr",
 		"title": "隱私條款和使用授權",
-		"updated": "20211226155901"
+		"updated": "20211228141510"
 	},
 	"Children": [
 		{
@@ -29,7 +29,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226114859-qugcvrh",
-				"updated": "20211225211904"
+				"updated": "20211228141510"
 			},
 			"Children": [
 				{
@@ -40,19 +40,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226114859-3aowl6g"
+						"id": "20211226114859-3aowl6g",
+						"updated": "20211228141507"
 					},
 					"Children": [
 						{
 							"ID": "20211226114859-tp03auw",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226114859-tp03auw"
+								"id": "20211226114859-tp03auw",
+								"updated": "20211228141507"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "所有數據都保存在用戶自己完全控制的設備上"
+									"Data": "所有資料都保存在用戶自己完全控制的設備上"
 								}
 							]
 						}
@@ -66,19 +68,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226114859-lzsunx2"
+						"id": "20211226114859-lzsunx2",
+						"updated": "20211228141510"
 					},
 					"Children": [
 						{
 							"ID": "20211226114859-hrvp9bn",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226114859-hrvp9bn"
+								"id": "20211226114859-hrvp9bn",
+								"updated": "20211228141510"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "不會收集任何使用數據"
+									"Data": "不會收集任何使用資料"
 								}
 							]
 						}

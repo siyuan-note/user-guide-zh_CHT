@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211227210109-0f92zh2",
 		"title": "端到端加密",
-		"updated": "20211227210129"
+		"updated": "20211228141355"
 	},
 	"Children": [
 		{
@@ -12,12 +12,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211227210129-fcbjzws",
-				"updated": "20211227210129"
+				"updated": "20211228141355"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "思源在進行備份和同步前會進行數據加密，加密後的數據可以放心地進行網絡傳輸和託管。"
+					"Data": "思源在進行備份和同步前會進行資料加密，加密後的資料可以放心地進行網絡傳輸和託管。"
 				}
 			]
 		},
@@ -27,7 +27,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211227210129-smiq240",
-				"updated": "20211227210129"
+				"updated": "20211228125302"
 			},
 			"Children": [
 				{
@@ -64,19 +64,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211227210129-01n2zqt"
+						"id": "20211227210129-01n2zqt",
+						"updated": "20211228125302"
 					},
 					"Children": [
 						{
 							"ID": "20211227210129-ft38gmp",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211227210129-ft38gmp"
+								"id": "20211227210129-ft38gmp",
+								"updated": "20211228125302"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "加密算法為業界公認安全的 AES GCM"
+									"Data": "加密演算法為業界公認安全的 AES GCM"
 								}
 							]
 						}
@@ -116,19 +118,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211227210129-xxov0k1"
+						"id": "20211227210129-xxov0k1",
+						"updated": "20211228124716"
 					},
 					"Children": [
 						{
 							"ID": "20211227210129-3ufp77h",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211227210129-3ufp77h"
+								"id": "20211227210129-3ufp77h",
+								"updated": "20211228124716"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "用戶設置的密碼使用程序內置密鑰加密後存儲在本地"
+									"Data": "用戶設置的密碼使用程式內置金鑰加密後存儲在本地"
 								}
 							]
 						}

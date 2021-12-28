@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226123101-qjw03ab",
 		"title": "小工具",
-		"updated": "20211226005327"
+		"updated": "20211228141612"
 	},
 	"Children": [
 		{
@@ -27,12 +27,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123118-jglr3dm",
-				"updated": "20211226005414"
+				"updated": "20211228141612"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "小工具是思源Kernel伺服的靜態網頁，它通過 API 存取數據，通過 "
+					"Data": "小工具是思源Kernel伺服的靜態網頁，它通過 API 存取資料，通過 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -135,12 +135,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123118-rouesan",
-				"updated": "20211226005738"
+				"updated": "20211228104600"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "上架前請確認你的模板倉庫根路徑下至少包含以下文件（"
+					"Data": "上架前請確認你的範本倉庫根路徑下至少包含以下文件（"
 				},
 				{
 					"Type": "NodeLink",
@@ -294,7 +294,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123118-y8auswj",
-				"updated": "20211226005738"
+				"updated": "20211228104623"
 			},
 			"Children": [
 				{
@@ -359,7 +359,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "，修改 widgets.json 文件。該文件是所有社區模板倉庫的索引，格式為："
+					"Data": "，修改 widgets.json 文件。該文件是所有社區範本倉庫的索引，格式為："
 				}
 			]
 		},
@@ -395,7 +395,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123118-h1yv8i2",
-				"updated": "20211226005738"
+				"updated": "20211228104605"
 			},
 			"Children": [
 				{
@@ -420,7 +420,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 請填寫你的模板倉庫上最近一次發布版本的 Git 提交hash values，請使用完整hash values，不要使用 7 位短值。"
+					"Data": " 請填寫你的範本倉庫上最近一次發布版本的 Git 提交hash values，請使用完整hash values，不要使用 7 位短值。"
 				}
 			]
 		},

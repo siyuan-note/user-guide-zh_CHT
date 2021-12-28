@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121322-9argcys",
 		"title": "類型過濾",
-		"updated": "20211225234845"
+		"updated": "20211228134235"
 	},
 	"Children": [
 		{
@@ -13,12 +13,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226121740-xjez6e9",
-				"updated": "20211225234845"
+				"updated": "20211228134026"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "類型字段 "
+					"Data": "類型欄位 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -475,12 +475,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226121740-yo2ibhk",
-				"updated": "20211225234901"
+				"updated": "20211228134235"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "子類型字段 "
+					"Data": "子類型欄位 "
 				},
 				{
 					"Type": "NodeCodeSpan",

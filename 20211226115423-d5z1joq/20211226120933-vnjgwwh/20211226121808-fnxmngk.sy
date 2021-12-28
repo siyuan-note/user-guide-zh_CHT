@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226121808-fnxmngk",
-		"title": "數據庫表",
-		"updated": "20211226145003"
+		"title": "資料庫表",
+		"updated": "20211228141756"
 	},
 	"Children": [
 		{
@@ -43,12 +43,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121831-umbkur3",
-				"updated": "20211225234522"
+				"updated": "20211228141039"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "該表用於存儲內容塊數據。"
+					"Data": "該表用於存儲內容塊資料。"
 				}
 			]
 		},
@@ -61,7 +61,7 @@
 			],
 			"Properties": {
 				"id": "20211226121831-s0emrpw",
-				"updated": "20211226145003"
+				"updated": "20211228134050"
 			},
 			"Children": [
 				{
@@ -79,7 +79,7 @@
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "字段"
+											"Data": "欄位"
 										}
 									]
 								},
@@ -145,7 +145,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "父塊的 ID，如果內容塊是文檔塊則該字段為空"
+									"Data": "父塊的 ID，如果內容塊是文檔塊則該欄位為空"
 								}
 							]
 						}
@@ -692,12 +692,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226121831-zvnhouv",
-				"updated": "20211225234522"
+				"updated": "20211228132848"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "默認值"
+					"Data": "預設值"
 				}
 			]
 		},
@@ -707,7 +707,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121831-oj726eb",
-				"updated": "20211225234522"
+				"updated": "20211228134348"
 			},
 			"Children": [
 				{
@@ -764,14 +764,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121831-zs0ji69"
+						"id": "20211226121831-zs0ji69",
+						"updated": "20211228134348"
 					},
 					"Children": [
 						{
 							"ID": "20211226121831-07fzz36",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121831-07fzz36"
+								"id": "20211226121831-07fzz36",
+								"updated": "20211228134348"
 							},
 							"Children": [
 								{
@@ -792,7 +794,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 字段"
+									"Data": " 欄位"
 								}
 							]
 						},
