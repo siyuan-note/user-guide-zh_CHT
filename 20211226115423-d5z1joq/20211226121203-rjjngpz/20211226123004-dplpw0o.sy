@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226123004-dplpw0o",
-		"title": "模板片段",
-		"updated": "20211226161356"
+		"title": "範本片段",
+		"updated": "20211228141606"
 	},
 	"Children": [
 		{
@@ -27,12 +27,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-sv70lot",
-				"updated": "20211225221928"
+				"updated": "20211228135113"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "模板片段用於在游標插入符位置快速插入之前設置好的文本內容，支持變量。模板片段使用 "
+					"Data": "範本片段用於在游標插入符位置快速插入之前設置好的文本內容，支援變量。範本片段使用 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -62,12 +62,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226123024-eyagqur",
-				"updated": "20211225221841"
+				"updated": "20211228104228"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "編寫模板"
+					"Data": "編寫範本"
 				}
 			]
 		},
@@ -76,12 +76,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-pwx44l4",
-				"updated": "20211226160840"
+				"updated": "20211228140749"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "模板使用的是 "
+					"Data": "範本使用的是 "
 				},
 				{
 					"Type": "NodeLink",
@@ -92,7 +92,7 @@
 						},
 						{
 							"Type": "NodeLinkText",
-							"Data": "Go 編程語言的文本模板"
+							"Data": "Go 編程語言的文本範本"
 						},
 						{
 							"Type": "NodeCloseBracket"
@@ -111,7 +111,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "進行實現，如果你對此有了解的話，可以實現一些程序邏輯在裡面，比如比較邏輯、叠代邏輯等。另外，為了避免語法沖突，模板語法使用 "
+					"Data": "進行實作，如果你對此有了解的話，可以實作一些程式邏輯在裡面，比如比較邏輯、叠代邏輯等。另外，為了避免語法沖突，範本語法使用 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -160,12 +160,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-eurqp4g",
-				"updated": "20211226161356"
+				"updated": "20211228124240"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "我們通過開原項目 "
+					"Data": "我們通過開原專案 "
 				},
 				{
 					"Type": "NodeLink",
@@ -195,7 +195,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 內置了一些變量和函數來豐富模板。比如可通過 "
+					"Data": " 內置了一些變量和函數來豐富範本。比如可通過 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -254,7 +254,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-46ipj4k",
-				"updated": "20211225222208"
+				"updated": "20211228124150"
 			},
 			"Children": [
 				{
@@ -279,7 +279,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "：Go 編程語言的格式化比較特殊：不是使用 "
+					"Data": "：Go 程式語言的格式化比較特殊：不是使用 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -358,12 +358,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-hcvjosa",
-				"updated": "20211225221841"
+				"updated": "20211228135329"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "除了 Sprig 內置的變量和函數，還支持如下變量和函數："
+					"Data": "除了 Sprig 內置的變量和函數，還支援如下變量和函數："
 				}
 			]
 		},
@@ -373,7 +373,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226123024-pjvw31z",
-				"updated": "20211225221841"
+				"updated": "20211228141606"
 			},
 			"Children": [
 				{
@@ -384,14 +384,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226123024-jck7280"
+						"id": "20211226123024-jck7280",
+						"updated": "20211228104250"
 					},
 					"Children": [
 						{
 							"ID": "20211226123024-ezex4bu",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226123024-ezex4bu"
+								"id": "20211226123024-ezex4bu",
+								"updated": "20211228104250"
 							},
 							"Children": [
 								{
@@ -412,7 +414,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "：該變量用於插入當前文檔名。比如模板內容為 "
+									"Data": "：該變量用於插入當前文檔名。比如範本內容為 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -572,14 +574,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226123024-e42d7xq"
+						"id": "20211226123024-e42d7xq",
+						"updated": "20211228141606"
 					},
 					"Children": [
 						{
 							"ID": "20211226123024-vxjdsno",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226123024-vxjdsno"
+								"id": "20211226123024-vxjdsno",
+								"updated": "20211228141606"
 							},
 							"Children": [
 								{
@@ -600,7 +604,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "：該函數用於查詢數據庫，返回值為 blocks 列表，參數為 SQL 語句："
+									"Data": "：該函數用於查詢資料庫，返回值為 blocks 列表，參數為 SQL 語句："
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -630,14 +634,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226123024-69kddle"
+						"id": "20211226123024-69kddle",
+						"updated": "20211228141602"
 					},
 					"Children": [
 						{
 							"ID": "20211226123024-4qwyf3w",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226123024-4qwyf3w"
+								"id": "20211226123024-4qwyf3w",
+								"updated": "20211228141602"
 							},
 							"Children": [
 								{
@@ -658,7 +664,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "：該函數用於查詢數據庫，返回值為 spans 列表，參數為 SQL 語句："
+									"Data": "：該函數用於查詢資料庫，返回值為 spans 列表，參數為 SQL 語句："
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -749,7 +755,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-5rk6w30",
-				"updated": "20211225221841"
+				"updated": "20211228134953"
 			},
 			"Children": [
 				{
@@ -790,7 +796,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 支持類似 SQL 預編譯語句的變參列表，方便傳入參數："
+					"Data": " 支援類似 SQL 預編譯語句的變參列表，方便傳入參數："
 				}
 			]
 		},
@@ -826,12 +832,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226123024-3wiifft",
-				"updated": "20211225221841"
+				"updated": "20211228104256"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "調用模板"
+					"Data": "調用範本"
 				}
 			]
 		},
@@ -840,7 +846,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-wtjurrr",
-				"updated": "20211225223520"
+				"updated": "20211228104309"
 			},
 			"Children": [
 				{
@@ -865,7 +871,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 選擇模板來觸發模板搜索，找到需要插入的模板後Enter即可。"
+					"Data": " 選擇範本來觸發範本搜索，找到需要插入的範本後Enter即可。"
 				}
 			]
 		},
@@ -967,12 +973,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226123024-4ihq4sa",
-				"updated": "20211225221841"
+				"updated": "20211228104315"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "上架模板集市"
+					"Data": "上架範本集市"
 				}
 			]
 		},
@@ -981,12 +987,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-t62ja68",
-				"updated": "20211225221841"
+				"updated": "20211228104319"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "上架前請確認你的模板倉庫根路徑下至少包含以下文件（"
+					"Data": "上架前請確認你的範本倉庫根路徑下至少包含以下文件（"
 				},
 				{
 					"Type": "NodeLink",
@@ -1114,7 +1120,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-797l7qe",
-				"updated": "20211225221841"
+				"updated": "20211228104324"
 			},
 			"Children": [
 				{
@@ -1179,7 +1185,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "，修改 templates.json 文件。該文件是所有社區模板倉庫的索引，格式為："
+					"Data": "，修改 templates.json 文件。該文件是所有社區範本倉庫的索引，格式為："
 				}
 			]
 		},
@@ -1215,7 +1221,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-ro1xgos",
-				"updated": "20211225222930"
+				"updated": "20211228104333"
 			},
 			"Children": [
 				{
@@ -1240,7 +1246,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 請填寫你的模板倉庫上最近一次發布版本的 Git 提交hash values，請使用完整hash values，不要使用 7 位短值。"
+					"Data": " 請填寫你的範本倉庫上最近一次發布版本的 Git 提交hash values，請使用完整hash values，不要使用 7 位短值。"
 				}
 			]
 		},
@@ -1264,12 +1270,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123024-3eplx3b",
-				"updated": "20211225221841"
+				"updated": "20211228104336"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "如果你開發的模板更新了版本，請記得："
+					"Data": "如果你開發的範本更新了版本，請記得："
 				}
 			]
 		},
@@ -1279,7 +1285,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226123024-w130hhf",
-				"updated": "20211225221841"
+				"updated": "20211228134333"
 			},
 			"Children": [
 				{
@@ -1290,19 +1296,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226123024-idtac4t"
+						"id": "20211226123024-idtac4t",
+						"updated": "20211228134333"
 					},
 					"Children": [
 						{
 							"ID": "20211226123024-i8k7z0o",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226123024-i8k7z0o"
+								"id": "20211226123024-i8k7z0o",
+								"updated": "20211228134333"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "更新你的模板配置 template.json 中的 version 字段"
+									"Data": "更新你的範本配置 template.json 中的 version 欄位"
 								}
 							]
 						}

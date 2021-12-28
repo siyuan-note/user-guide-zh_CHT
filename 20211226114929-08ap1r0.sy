@@ -5,7 +5,7 @@
 		"icon": "1f64f",
 		"id": "20211226114929-08ap1r0",
 		"title": "致謝",
-		"updated": "20211226161949"
+		"updated": "20211228124248"
 	},
 	"Children": [
 		{
@@ -13,12 +13,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115007-stp29b2",
-				"updated": "20211226161053"
+				"updated": "20211228124248"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "思源的誕生離不開下列開原項目。"
+					"Data": "思源的誕生離不開下列開原專案。"
 				}
 			]
 		},

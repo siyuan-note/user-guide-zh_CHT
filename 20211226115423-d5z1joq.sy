@@ -6,7 +6,7 @@
 		"id": "20211226115423-d5z1joq",
 		"title": "請從這裡開始",
 		"title-img": "background-color:#556;background-image: linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a),linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);background-size:80px 140px;background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;",
-		"updated": "20211227210355"
+		"updated": "20211228143127"
 	},
 	"Children": [
 		{
@@ -31,7 +31,7 @@
 			"Properties": {
 				"id": "20211226115745-bygtonj",
 				"style": "color: var(--b3-card-info-color); background-color: var(--b3-card-info-background);",
-				"updated": "20211226130320"
+				"updated": "20211228142856"
 			},
 			"Children": [
 				{
@@ -69,7 +69,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "。通過排版格式即可形成內容塊，這樣我們就能在塊級粒度上對思緒和知識進行整理，同時也能方便長文閱讀和輸出。"
+					"Data": "。通過排版格式即可形成內容塊，這樣我們就能在區塊級上對思緒和知識進行整理，同時也能方便長文閱讀和輸出。"
 				}
 			]
 		},
@@ -78,7 +78,7 @@
 			"Type": "NodeSuperBlock",
 			"Properties": {
 				"id": "20211226115745-rorv31l",
-				"updated": "20211227210338"
+				"updated": "20211228143127"
 			},
 			"Children": [
 				{
@@ -94,7 +94,7 @@
 					"Properties": {
 						"id": "20211226115745-mwd9by9",
 						"style": "width: 70%; flex: 0 0 auto;",
-						"updated": "20211227210331"
+						"updated": "20211228143127"
 					},
 					"Children": [
 						{
@@ -125,7 +125,7 @@
 							"ListData": {},
 							"Properties": {
 								"id": "20211226115745-f8vrixq",
-								"updated": "20211227210331"
+								"updated": "20211228143127"
 							},
 							"Children": [
 								{
@@ -213,7 +213,7 @@
 									},
 									"Properties": {
 										"id": "20211226115745-3umt133",
-										"updated": "20211227210331"
+										"updated": "20211228143127"
 									},
 									"Children": [
 										{
@@ -221,7 +221,7 @@
 											"Type": "NodeParagraph",
 											"Properties": {
 												"id": "20211226115745-w92vc97",
-												"updated": "20211227210331"
+												"updated": "20211228143127"
 											},
 											"Children": [
 												{
@@ -276,7 +276,7 @@
 														},
 														{
 															"Type": "NodeBlockRefText",
-															"Data": "窗口和分頁"
+															"Data": "視窗和分頁"
 														},
 														{
 															"Type": "NodeCloseParen"
@@ -506,7 +506,7 @@
 			"Type": "NodeSuperBlock",
 			"Properties": {
 				"id": "20211226115745-1yev4ow",
-				"updated": "20211227210355"
+				"updated": "20211228132231"
 			},
 			"Children": [
 				{
@@ -769,7 +769,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20211226115745-gllrx2n",
-						"updated": "20211227210355"
+						"updated": "20211228132231"
 					},
 					"Children": [
 						{
@@ -800,7 +800,7 @@
 							"ListData": {},
 							"Properties": {
 								"id": "20211226115745-rx1tyat",
-								"updated": "20211227210355"
+								"updated": "20211228132231"
 							},
 							"Children": [
 								{
@@ -865,7 +865,7 @@
 									},
 									"Properties": {
 										"id": "20211226115745-yqhbic2",
-										"updated": "20211227210348"
+										"updated": "20211228104446"
 									},
 									"Children": [
 										{
@@ -873,7 +873,7 @@
 											"Type": "NodeParagraph",
 											"Properties": {
 												"id": "20211226115745-69etymo",
-												"updated": "20211227210348"
+												"updated": "20211228104446"
 											},
 											"Children": [
 												{
@@ -895,7 +895,7 @@
 														},
 														{
 															"Type": "NodeBlockRefText",
-															"Data": "上架模板集市"
+															"Data": "上架範本集市"
 														},
 														{
 															"Type": "NodeCloseParen"
@@ -918,7 +918,7 @@
 									},
 									"Properties": {
 										"id": "20211226115745-marjndt",
-										"updated": "20211227210352"
+										"updated": "20211228132231"
 									},
 									"Children": [
 										{
@@ -926,7 +926,7 @@
 											"Type": "NodeParagraph",
 											"Properties": {
 												"id": "20211226115745-ho382vy",
-												"updated": "20211227210352"
+												"updated": "20211228132231"
 											},
 											"Children": [
 												{
@@ -948,7 +948,7 @@
 														},
 														{
 															"Type": "NodeBlockRefText",
-															"Data": "上架圖標集市"
+															"Data": "上架圖示集市"
 														},
 														{
 															"Type": "NodeCloseParen"

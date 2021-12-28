@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226122459-08mi5cq",
 		"title": "Docker 伺服",
-		"updated": "20211226150843"
+		"updated": "20211228143219"
 	},
 	"Children": [
 		{
@@ -12,12 +12,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122519-kt62kam",
-				"updated": "20211226011647"
+				"updated": "20211228143219"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "在服務器上伺服思源最簡單的方案是通過 Docker 部署，鏡像名稱是 "
+					"Data": "在伺服器上伺服思源最簡單的方案是通過 Docker 部署，鏡像名稱是 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -61,12 +61,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122519-kzprtsh",
-				"updated": "20211226011647"
+				"updated": "20211228124513"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "整體程序位於 "
+					"Data": "整體程式位於 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -96,7 +96,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226122519-dp4dv43",
-				"updated": "20211226011647"
+				"updated": "20211228132206"
 			},
 			"Children": [
 				{
@@ -107,19 +107,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122519-sw50upp"
+						"id": "20211226122519-sw50upp",
+						"updated": "20211228132206"
 					},
 					"Children": [
 						{
 							"ID": "20211226122519-g4coowo",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226122519-g4coowo"
+								"id": "20211226122519-g4coowo",
+								"updated": "20211228132206"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "appearance：圖標、主題、多語言"
+									"Data": "appearance：圖示、主題、多語言"
 								}
 							]
 						}
@@ -159,19 +161,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122519-iewtwx8"
+						"id": "20211226122519-iewtwx8",
+						"updated": "20211228104843"
 					},
 					"Children": [
 						{
 							"ID": "20211226122519-fftnvkg",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226122519-fftnvkg"
+								"id": "20211226122519-fftnvkg",
+								"updated": "20211228104843"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "stage：界面和靜態資源"
+									"Data": "stage：界面和靜態資料"
 								}
 							]
 						}
@@ -185,19 +189,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122519-sn8phpz"
+						"id": "20211226122519-sn8phpz",
+						"updated": "20211228124516"
 					},
 					"Children": [
 						{
 							"ID": "20211226122519-s5nun1r",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226122519-s5nun1r"
+								"id": "20211226122519-s5nun1r",
+								"updated": "20211228124516"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "kernel：內核程序"
+									"Data": "kernel：內核程式"
 								}
 							]
 						}
@@ -352,7 +358,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122519-ajimm1z",
-				"updated": "20211226150843"
+				"updated": "20211228141917"
 			},
 			"Children": [
 				{
@@ -390,7 +396,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "。下面是一條啟動命令示例："
+					"Data": "。下面是一條啟動指令示例："
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -530,7 +536,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122519-yggdi08",
-				"updated": "20211226011647"
+				"updated": "20211228141927"
 			},
 			"Children": [
 				{
@@ -595,7 +601,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "，對應的啟動命令示例："
+					"Data": "，對應的啟動指令示例："
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -639,12 +645,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122519-38pgtv3",
-				"updated": "20211226011744"
+				"updated": "20211228132907"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "鏡像中是使用默認創建的普通用戶 "
+					"Data": "鏡像中是使用預設創建的普通用戶 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -664,7 +670,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "（uid 1000/gid 1000）來啟動kernel進程的，所以在宿主機創建工作空間文件夾時請註意設置該文件夾所屬用戶組："
+					"Data": "（uid 1000/gid 1000）來啟動kernel程式的，所以在宿主機創建工作空間文件夾時請註意設置該文件夾所屬用戶組："
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -743,7 +749,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226122519-kh6qira",
-				"updated": "20211226011647"
+				"updated": "20211228132828"
 			},
 			"Children": [
 				{
@@ -754,14 +760,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122519-yby21hm"
+						"id": "20211226122519-yby21hm",
+						"updated": "20211228132826"
 					},
 					"Children": [
 						{
 							"ID": "20211226122519-eqb4tnp",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226122519-eqb4tnp"
+								"id": "20211226122519-eqb4tnp",
+								"updated": "20211228132826"
 							},
 							"Children": [
 								{
@@ -816,14 +824,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122519-orj98i7"
+						"id": "20211226122519-orj98i7",
+						"updated": "20211228132828"
 					},
 					"Children": [
 						{
 							"ID": "20211226122519-pgqa7l6",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226122519-pgqa7l6"
+								"id": "20211226122519-pgqa7l6",
+								"updated": "20211228132828"
 							},
 							"Children": [
 								{

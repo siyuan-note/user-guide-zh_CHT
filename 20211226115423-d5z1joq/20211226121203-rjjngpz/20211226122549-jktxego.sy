@@ -5,7 +5,7 @@
 		"icon": "2328",
 		"id": "20211226122549-jktxego",
 		"title": "快捷鍵",
-		"updated": "20211226153520"
+		"updated": "20211228143102"
 	},
 	"Children": [
 		{
@@ -33,7 +33,7 @@
 			],
 			"Properties": {
 				"id": "20211226122652-4e9hm9i",
-				"updated": "20211226153010"
+				"updated": "20211228143102"
 			},
 			"Children": [
 				{
@@ -336,7 +336,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "聯動大綱分頁"
+									"Data": "關聯大綱分頁"
 								}
 							]
 						},
@@ -584,7 +584,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "聯動反向連結分頁"
+									"Data": "關聯反向連結分頁"
 								}
 							]
 						},
@@ -646,7 +646,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "聯動關系圖分頁"
+									"Data": "關聯關系圖分頁"
 								}
 							]
 						},
@@ -708,7 +708,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "全局關系圖分頁"
+									"Data": "全域關系圖分頁"
 								}
 							]
 						},
@@ -1018,7 +1018,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "隱藏/顯示窗口"
+									"Data": "隱藏/顯示視窗"
 								}
 							]
 						},
@@ -1242,7 +1242,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "使用列表中高亮的內容進行補全"
+									"Data": "使用列表中突顯的內容進行補全"
 								}
 							]
 						}
@@ -1728,7 +1728,7 @@
 			],
 			"Properties": {
 				"id": "20211226122652-pb50zx4",
-				"updated": "20211226153520"
+				"updated": "20211228124031"
 			},
 			"Children": [
 				{
@@ -1913,7 +1913,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "全局搜索"
+									"Data": "全域搜索"
 								}
 							]
 						},
@@ -2703,7 +2703,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "刷新編輯器"
+									"Data": "重新整理編輯器"
 								}
 							]
 						},
@@ -5541,12 +5541,12 @@
 			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20211226122652-jhdz9s3",
-				"updated": "20211226011912"
+				"updated": "20211228131756"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "塊圖標"
+					"Data": "塊圖示"
 				}
 			]
 		},
@@ -5559,7 +5559,7 @@
 			],
 			"Properties": {
 				"id": "20211226122652-ykdt6pc",
-				"updated": "20211226012529"
+				"updated": "20211228130841"
 			},
 			"Children": [
 				{

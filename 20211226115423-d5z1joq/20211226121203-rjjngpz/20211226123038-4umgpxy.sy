@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226123038-4umgpxy",
-		"title": "資源文件",
-		"updated": "20211226160821"
+		"title": "資料文件",
+		"updated": "20211228140810"
 	},
 	"Children": [
 		{
@@ -27,12 +27,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123051-wvk5a7h",
-				"updated": "20211226013452"
+				"updated": "20211228132912"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "通過編輯器插入的附件會被認為是資源文件，默認放置在工作空間 data/assets 文件夾下。"
+					"Data": "通過編輯器插入的附件會被認為是資料文件，預設放置在工作空間 data/assets 文件夾下。"
 				}
 			]
 		},
@@ -56,12 +56,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123051-zdhnfws",
-				"updated": "20211226013622"
+				"updated": "20211228140810"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "在編輯器中可以直接貼上系統剪貼簿中複製好的圖片，或者通過拖拽圖片文件到編輯器中也可以實現圖片插入。"
+					"Data": "在編輯器中可以直接貼上系統剪貼簿中複製好的圖片，或者通過拖拽圖片文件到編輯器中也可以實作圖片插入。"
 				}
 			]
 		},
@@ -131,12 +131,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226123051-5250xg7",
-				"updated": "20211226013452"
+				"updated": "20211228104709"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "清理未引用資源"
+					"Data": "清理未引用資料"
 				}
 			]
 		},
@@ -145,7 +145,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123051-2aa4sf6",
-				"updated": "20211226160821"
+				"updated": "20211228104712"
 			},
 			"Children": [
 				{
@@ -210,7 +210,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 對資源文件進行連接。這裡分為兩種情況："
+					"Data": " 對資料文件進行連接。這裡分為兩種情況："
 				}
 			]
 		},
@@ -222,7 +222,7 @@
 			},
 			"Properties": {
 				"id": "20211226123051-1qp7a9g",
-				"updated": "20211226013452"
+				"updated": "20211228104718"
 			},
 			"Children": [
 				{
@@ -235,19 +235,21 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211226123051-mmn60x5"
+						"id": "20211226123051-mmn60x5",
+						"updated": "20211228104716"
 					},
 					"Children": [
 						{
 							"ID": "20211226123051-p8dr1dy",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226123051-p8dr1dy"
+								"id": "20211226123051-p8dr1dy",
+								"updated": "20211228104716"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "引用具體的資源文件，比如圖片或者文件"
+									"Data": "引用具體的資料文件，比如圖片或者文件"
 								}
 							]
 						}
@@ -263,19 +265,21 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20211226123051-0az1yw2"
+						"id": "20211226123051-0az1yw2",
+						"updated": "20211228104718"
 					},
 					"Children": [
 						{
 							"ID": "20211226123051-heoyfe2",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226123051-heoyfe2"
+								"id": "20211226123051-heoyfe2",
+								"updated": "20211228104718"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "引用資源文件夾（在 assets 文件夾下的子文件夾），必須以 "
+									"Data": "引用資料文件夾（在 assets 文件夾下的子文件夾），必須以 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -324,12 +328,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123051-8ftluwy",
-				"updated": "20211226013452"
+				"updated": "20211228104725"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "第二種情況比較特殊：一個資源文件夾如果被引用，則下面所有資源文件無論是否被單獨引用，都會被算作已經引用。"
+					"Data": "第二種情況比較特殊：一個資料文件夾如果被引用，則下面所有資料文件無論是否被單獨引用，都會被算作已經引用。"
 				}
 			]
 		},
@@ -338,7 +342,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123051-tkps9jc",
-				"updated": "20211226150535"
+				"updated": "20211228104732"
 			},
 			"Children": [
 				{
@@ -374,7 +378,7 @@
 						},
 						{
 							"Type": "NodeText",
-							"Data": "資源"
+							"Data": "資料"
 						},
 						{
 							"Type": "NodeKbdCloseMarker"
@@ -383,7 +387,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 中可以一鍵清理未引用資源，如果需要找回被誤刪的文件，請通過"
+					"Data": " 中可以一鍵清理未引用資料，如果需要找回被誤刪的文件，請通過"
 				},
 				{
 					"Type": "NodeBlockRef",
@@ -470,12 +474,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123051-hzcggdl",
-				"updated": "20211226013452"
+				"updated": "20211228132902"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "如果需要默認將插入的資源文件放置在文檔同級 assets 文件夾下，則需要先手動創建名為 assets 的文件夾，這樣思源會優先選擇該 assets 文件夾來存放資源文件。"
+					"Data": "如果需要預設將插入的資料文件放置在文檔同級 assets 文件夾下，則需要先手動創建名為 assets 的文件夾，這樣思源會優先選擇該 assets 文件夾來存放資料文件。"
 				}
 			]
 		}

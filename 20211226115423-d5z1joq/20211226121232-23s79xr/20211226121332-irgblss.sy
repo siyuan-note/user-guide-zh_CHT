@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226121332-irgblss",
-		"title": "資源文件圖庫",
-		"updated": "20211226153349"
+		"title": "資料文件圖庫",
+		"updated": "20211228141347"
 	},
 	"Children": [
 		{
@@ -30,7 +30,7 @@
 			},
 			"Properties": {
 				"id": "20211226121407-iocuon0",
-				"updated": "20211226010854"
+				"updated": "20211228141347"
 			},
 			"Children": [
 				{
@@ -43,7 +43,8 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211226121407-gvqi3gd"
+						"id": "20211226121407-gvqi3gd",
+						"updated": "20211228141347"
 					},
 					"Children": [
 						{
@@ -66,12 +67,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226121407-zgks8io",
-								"updated": "20211226010651"
+								"updated": "20211228141347"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "思源在進行備份和同步前會進行數據加密，加密後的數據可以放心地進行網絡傳輸和托管。"
+									"Data": "思源在進行備份和同步前會進行資料加密，加密後的資料可以放心地進行網絡傳輸和托管。"
 								}
 							]
 						},
@@ -81,7 +82,7 @@
 							"ListData": {},
 							"Properties": {
 								"id": "20211226121407-cktvb9a",
-								"updated": "20211226010651"
+								"updated": "20211228125256"
 							},
 							"Children": [
 								{
@@ -118,19 +119,21 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121407-7vfear1"
+										"id": "20211226121407-7vfear1",
+										"updated": "20211228125256"
 									},
 									"Children": [
 										{
 											"ID": "20211226121407-isrod33",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121407-isrod33"
+												"id": "20211226121407-isrod33",
+												"updated": "20211228125256"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "加密算法為業界公認安全的 AES GCM"
+													"Data": "加密演算法為業界公認安全的 AES GCM"
 												}
 											]
 										}
@@ -170,19 +173,21 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121407-vfmolsu"
+										"id": "20211226121407-vfmolsu",
+										"updated": "20211228124709"
 									},
 									"Children": [
 										{
 											"ID": "20211226121407-bcl9gmx",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121407-bcl9gmx"
+												"id": "20211226121407-bcl9gmx",
+												"updated": "20211228124709"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "用戶設置的密碼使用程序內置密鑰加密後存儲在本地"
+													"Data": "用戶設置的密碼使用程式內置金鑰加密後存儲在本地"
 												}
 											]
 										}
@@ -194,7 +199,8 @@
 							"ID": "20211226121407-m4673z3",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121407-m4673z3"
+								"id": "20211226121407-m4673z3",
+								"updated": "20211228104834"
 							},
 							"Children": [
 								{
@@ -230,7 +236,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "上傳資源文件到"
+											"Data": "上傳資料文件到"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -452,7 +458,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121407-vggperb",
-				"updated": "20211226153349"
+				"updated": "20211228140125"
 			},
 			"Children": [
 				{
@@ -464,7 +470,7 @@
 					},
 					"Properties": {
 						"id": "20211226121407-ehj3ooe",
-						"updated": "20211226153349"
+						"updated": "20211228140125"
 					},
 					"Children": [
 						{
@@ -472,12 +478,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226121407-fq62d32",
-								"updated": "20211226153349"
+								"updated": "20211228140125"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "請勿直接在其他平台使用雲端圖庫提供的外連地址，這個地址不穩定，可能會因為換域名而影響可用性"
+									"Data": "請勿直接在其他平台使用雲端圖庫提供的外連位址，這個位址不穩定，可能會因為換域名而影響可用性"
 								}
 							]
 						}
@@ -491,19 +497,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121407-odieqe8"
+						"id": "20211226121407-odieqe8",
+						"updated": "20211228104759"
 					},
 					"Children": [
 						{
 							"ID": "20211226121407-a3bquy9",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121407-a3bquy9"
+								"id": "20211226121407-a3bquy9",
+								"updated": "20211228104759"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "請勿上傳違法違規或敏感資源文件，上傳的資源文件會通過第三方提供的服務進行審核（色情、暴恐、敏感人物等）。如果發現使用者上傳違規資源文件，使用者賬號會被永久封禁，並承擔相應的法律責任"
+									"Data": "請勿上傳違法違規或敏感資料文件，上傳的資料文件會通過第三方提供的服務進行審核（色情、暴恐、敏感人物等）。如果發現使用者上傳違規資料文件，使用者賬號會被永久封禁，並承擔相應的法律責任"
 								}
 							]
 						}

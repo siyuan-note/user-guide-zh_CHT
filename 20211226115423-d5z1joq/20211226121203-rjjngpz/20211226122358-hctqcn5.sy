@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226122358-hctqcn5",
 		"title": "Kernel 參數",
-		"updated": "20211227210236"
+		"updated": "20211228132931"
 	},
 	"Children": [
 		{
@@ -39,12 +39,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122447-zrnua6j",
-				"updated": "20211226011025"
+				"updated": "20211228132920"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "用於指定工作空間文件夾路徑，不指定時的默認值是 "
+					"Data": "用於指定工作空間文件夾路徑，不指定時的預設值是 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -141,12 +141,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122447-shmk0d2",
-				"updated": "20211226011025"
+				"updated": "20211228132923"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "用於指定伺服路徑（host:port），默認值為 "
+					"Data": "用於指定伺服路徑（host:port），預設值為 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -175,12 +175,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122447-2219swd",
-				"updated": "20211226011025"
+				"updated": "20211228132926"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "例如需要通過域名訪問時，請將該值設置為 "
+					"Data": "例如需要通過域名存取時，請將該值設置為 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -200,7 +200,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "，端口留空則表示使用協議默認端口，需要通過 NGINX 反向代理請求到 6806 端口。"
+					"Data": "，端口留空則表示使用協議預設端口，需要通過 NGINX 反向代理請求到 6806 端口。"
 				}
 			]
 		},
@@ -236,7 +236,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122447-kbcejv5",
-				"updated": "20211226011055"
+				"updated": "20211228132931"
 			},
 			"Children": [
 				{
@@ -261,7 +261,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 指定後Kernel將常駐內存，默認 "
+					"Data": " 指定後Kernel將常駐記憶體，預設 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -290,7 +290,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122447-wpeb408",
-				"updated": "20211226011108"
+				"updated": "20211228124615"
 			},
 			"Children": [
 				{
@@ -315,7 +315,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 後會每隔 30 秒檢查一次活動會話列表，如果沒有活動會話則退出Kernel進程。"
+					"Data": " 後會每隔 30 秒檢查一次活動會話列表，如果沒有活動會話則退出Kernel程式。"
 				}
 			]
 		},
@@ -351,7 +351,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122447-3obspkw",
-				"updated": "20211226011122"
+				"updated": "20211228130427"
 			},
 			"Children": [
 				{
@@ -376,7 +376,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 指定後Kernel將以唯讀模式運行，所有寫入操作將被禁止。"
+					"Data": " 指定後Kernel將以唯讀模式運行，所有寫入作業將被禁止。"
 				}
 			]
 		},
@@ -412,12 +412,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122447-5lookgq",
-				"updated": "20211226145747"
+				"updated": "20211228125034"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "用於指定瀏覽器訪問"
+					"Data": "用於指定瀏覽器存取"
 				},
 				{
 					"Type": "NodeBlockRef",

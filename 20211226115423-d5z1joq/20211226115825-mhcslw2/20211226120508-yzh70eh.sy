@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226120508-yzh70eh",
 		"title": "嵌入內容塊",
-		"updated": "20211226160816"
+		"updated": "20211228141618"
 	},
 	"Children": [
 		{
@@ -27,7 +27,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226120744-0dnr5d6",
-				"updated": "20211226130017"
+				"updated": "20211228141618"
 			},
 			"Children": [
 				{
@@ -92,7 +92,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "，數據庫表請參考"
+					"Data": "，資料庫表請參考"
 				},
 				{
 					"Type": "NodeBlockRef",
@@ -692,7 +692,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226120744-gzaqyix",
-				"updated": "20211226160816"
+				"updated": "20211228134246"
 			},
 			"Children": [
 				{
@@ -717,7 +717,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 字段而不是 "
+					"Data": " 欄位而不是 "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -737,7 +737,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 字段："
+					"Data": " 欄位："
 				}
 			]
 		},

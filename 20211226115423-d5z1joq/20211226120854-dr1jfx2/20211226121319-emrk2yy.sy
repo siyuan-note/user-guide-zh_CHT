@@ -5,7 +5,7 @@
 		"id": "20211226121319-emrk2yy",
 		"title": "排版元素",
 		"title-img": "background-color: hsl(2, 57%, 40%);background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);",
-		"updated": "20211226165048"
+		"updated": "20211228135912"
 	},
 	"Children": [
 		{
@@ -29,7 +29,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226122008-1e014nh",
-				"updated": "20211226150308"
+				"updated": "20211228134859"
 			},
 			"Children": [
 				{
@@ -1137,7 +1137,7 @@
 					},
 					"Properties": {
 						"id": "20211226122008-8fh4tfg",
-						"updated": "20211226001928"
+						"updated": "20211228134859"
 					},
 					"Children": [
 						{
@@ -1145,12 +1145,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-aneu5ql",
-								"updated": "20211226001928"
+								"updated": "20211228134859"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "支持大部分標準的表情符號，可使用輸入法直接輸入，也可手動輸入字符格式。通過輸入 "
+									"Data": "支援大部分標準的表情符號，可使用輸入法直接輸入，也可手動輸入字符格式。通過輸入 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -2367,12 +2367,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122008-kd7tbb0",
-				"updated": "20211226002604"
+				"updated": "20211228135912"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "如果在 ``` 後面跟隨語言名稱，可以有語法高亮的效果哦，比如："
+					"Data": "如果在 ``` 後面跟隨語言名稱，可以有語法突顯的效果哦，比如："
 				}
 			]
 		},
@@ -2382,12 +2382,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226122008-ckdtx9j",
-				"updated": "20211226002548"
+				"updated": "20211228135834"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "展示 Go 代码高亮"
+					"Data": "展示 Go 代码突顯"
 				}
 			]
 		},
@@ -2424,12 +2424,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226122008-fcs48nq",
-				"updated": "20211226002544"
+				"updated": "20211228135827"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "展示 Java 高亮"
+					"Data": "展示 Java 突顯"
 				}
 			]
 		},
@@ -2465,7 +2465,7 @@
 			"Type": "NodeBlockquote",
 			"Properties": {
 				"id": "20211226122008-ukzwvpl",
-				"updated": "20211226002526"
+				"updated": "20211228134904"
 			},
 			"Children": [
 				{
@@ -2477,12 +2477,12 @@
 					"Type": "NodeParagraph",
 					"Properties": {
 						"id": "20211226122008-fsflp4n",
-						"updated": "20211226002526"
+						"updated": "20211228134904"
 					},
 					"Children": [
 						{
 							"Type": "NodeText",
-							"Data": "Tip: 語言名稱支持下面這些： "
+							"Data": "Tip: 語言名稱支援下面這些： "
 						},
 						{
 							"Type": "NodeCodeSpan",
@@ -2998,7 +2998,7 @@
 			"IsFencedCodeBlock": true,
 			"Properties": {
 				"id": "20211226122122-jf2d7wf",
-				"updated": "20211226153258"
+				"updated": "20211228135857"
 			},
 			"Children": [
 				{
@@ -3011,7 +3011,7 @@
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "- 教程\n- 語法指導\n  - 普通內容\n  - 提及用戶\n  - 表情符號 Emoji\n    - 一些表情例子\n  - 大標題 - Heading 3\n    - Heading 4\n      - Heading 5\n        - Heading 6\n  - 圖片\n  - 代碼塊\n    - 普通\n    - 語法高亮支持\n      - 展示 Go 代碼高亮\n      - 展示 Java 高亮\n  - 有序、無序、任務列表\n    - 無序列表\n    - 有序列表\n    - 任務列表\n  - 表格\n  - 隱藏細節\n  - 段落\n  - 連結引用\n  - 數學公式\n  - 心智圖\n  - 流程圖\n  - 時序圖\n  - 甘特圖\n  - 圖表\n  - 五線譜\n  - Graphviz\n  - 多媒體\n  - 腳註\n- 快捷鍵"
+					"Data": "- 教程\n- 語法指導\n  - 普通內容\n  - 提及用戶\n  - 表情符號 Emoji\n    - 一些表情例子\n  - 大標題 - Heading 3\n    - Heading 4\n      - Heading 5\n        - Heading 6\n  - 圖片\n  - 代碼塊\n    - 普通\n    - 語法突顯支援\n      - 展示 Go 代碼突顯\n      - 展示 Java 突顯\n  - 有序、無序、任務列表\n    - 無序列表\n    - 有序列表\n    - 任務列表\n  - 表格\n  - 隱藏細節\n  - 段落\n  - 連結引用\n  - 數學公式\n  - 心智圖\n  - 流程圖\n  - 時序圖\n  - 甘特圖\n  - 圖表\n  - 五線譜\n  - Graphviz\n  - 多媒體\n  - 註腳\n- 快捷鍵"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",

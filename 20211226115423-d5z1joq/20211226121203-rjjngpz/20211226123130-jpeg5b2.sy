@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226123130-jpeg5b2",
 		"title": "書籤和標籤",
-		"updated": "20211226013955"
+		"updated": "20211228134927"
 	},
 	"Children": [
 		{
@@ -178,12 +178,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123145-fvftrvl",
-				"updated": "20211226013955"
+				"updated": "20211228134927"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "標簽支持層級，這樣可以更方便地對內容塊進行分類整理。不同層級之間使用 "
+					"Data": "標簽支援層級，這樣可以更方便地對內容塊進行分類整理。不同層級之間使用 "
 				},
 				{
 					"Type": "NodeCodeSpan",

@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226122707-8cr09co",
 		"title": "編輯歷史",
-		"updated": "20211226150452"
+		"updated": "20211228141424"
 	},
 	"Children": [
 		{
@@ -13,7 +13,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226122720-3ttgosf",
-				"updated": "20211225215306"
+				"updated": "20211228141412"
 			},
 			"Children": [
 				{
@@ -196,19 +196,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122720-sgchlkl"
+						"id": "20211226122720-sgchlkl",
+						"updated": "20211228141412"
 					},
 					"Children": [
 						{
 							"ID": "20211226122720-n880lf3",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226122720-n880lf3"
+								"id": "20211226122720-n880lf3",
+								"updated": "20211228141412"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "歷史數據保存在筆記本 "
+									"Data": "歷史資料保存在筆記本 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -256,12 +258,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122720-iom54iz",
-				"updated": "20211225215306"
+				"updated": "20211228135312"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "在筆記本上右鍵菜單中選擇歷史，目前僅支持瀏覽最新的 32 次歷史。"
+					"Data": "在筆記本上右鍵菜單中選擇歷史，目前僅支援瀏覽最新的 32 次歷史。"
 				}
 			]
 		},
@@ -285,12 +287,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122720-kwrhgnd",
-				"updated": "20211225220502"
+				"updated": "20211228141424"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "在歷史界面左側時間列表欄中，每一條歷史記錄後面都有一個撤銷按鈕，點擊以後將彈出確認對話框，如果確認回滾的話將使用歷史數據覆蓋現有數據。"
+					"Data": "在歷史界面左側時間列表欄中，每一條歷史記錄後面都有一個撤銷按鈕，點擊以後將彈出確認對話視窗，如果確認回滾的話將使用歷史資料覆蓋現有資料。"
 				}
 			]
 		},

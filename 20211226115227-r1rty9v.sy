@@ -5,7 +5,7 @@
 		"icon": "2753",
 		"id": "20211226115227-r1rty9v",
 		"title": "常見問題",
-		"updated": "20211226161322"
+		"updated": "20211228145251"
 	},
 	"Children": [
 		{
@@ -14,12 +14,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226115356-hp36u1f",
-				"updated": "20211226151424"
+				"updated": "20211228141247"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "思源是如何存儲數據的？"
+					"Data": "思源是如何存儲資料的？"
 				}
 			]
 		},
@@ -28,12 +28,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-fcwiy36",
-				"updated": "20211225214824"
+				"updated": "20211228141251"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "數據保存在工作空間文件夾下（默認位於用戶家目錄 Documents/SiYuan，可在 "
+					"Data": "資料保存在工作空間文件夾下（預設位於用戶家目錄 Documents/SiYuan，可在 "
 				},
 				{
 					"Type": "NodeKbd",
@@ -83,7 +83,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226115356-i1v42hf",
-				"updated": "20211226145853"
+				"updated": "20211228141258"
 			},
 			"Children": [
 				{
@@ -94,14 +94,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226115356-2dufb3s"
+						"id": "20211226115356-2dufb3s",
+						"updated": "20211228104839"
 					},
 					"Children": [
 						{
 							"ID": "20211226115356-ymtmyye",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226115356-ymtmyye"
+								"id": "20211226115356-ymtmyye",
+								"updated": "20211228104839"
 							},
 							"Children": [
 								{
@@ -122,7 +124,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 用於保存所有插入的資源文件"
+									"Data": " 用於保存所有插入的資料文件"
 								}
 							]
 						}
@@ -137,7 +139,7 @@
 					},
 					"Properties": {
 						"id": "20211226115356-dmkm408",
-						"updated": "20211226145853"
+						"updated": "20211228104617"
 					},
 					"Children": [
 						{
@@ -145,7 +147,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226115356-k4ju5n9",
-								"updated": "20211226145853"
+								"updated": "20211228104617"
 							},
 							"Children": [
 								{
@@ -187,7 +189,7 @@
 										},
 										{
 											"Type": "NodeBlockRefText",
-											"Data": "模板片段"
+											"Data": "範本片段"
 										},
 										{
 											"Type": "NodeCloseParen"
@@ -295,14 +297,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226115356-vfc2ba3"
+						"id": "20211226115356-vfc2ba3",
+						"updated": "20211228141258"
 					},
 					"Children": [
 						{
 							"ID": "20211226115356-jv0ssqa",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226115356-jv0ssqa"
+								"id": "20211226115356-jv0ssqa",
+								"updated": "20211228141258"
 							},
 							"Children": [
 								{
@@ -327,7 +331,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 後綴的文件用於保存文檔數據，數據格式為 JSON"
+									"Data": " 後綴的文件用於保存文檔資料，資料格式為 JSON"
 								}
 							]
 						}
@@ -355,12 +359,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-lwtx09u",
-				"updated": "20211226161322"
+				"updated": "20211228141407"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "目前並沒有完全開原，但為了保證數據的可遷移性，"
+					"Data": "目前並沒有完全開原，但為了保證資料的可遷移性，"
 				},
 				{
 					"Type": "NodeLink",
@@ -371,7 +375,7 @@
 						},
 						{
 							"Type": "NodeLinkText",
-							"Data": "數據解析器"
+							"Data": "資料解析器"
 						},
 						{
 							"Type": "NodeCloseBracket"
@@ -464,12 +468,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-rn32tpl",
-				"updated": "20211226145918"
+				"updated": "20211228130658"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "文檔被刪除後不會出現在操作系統回收站中，而是直接刪除，刪除時思源會生成"
+					"Data": "文檔被刪除後不會出現在作業系統回收站中，而是直接刪除，刪除時思源會生成"
 				},
 				{
 					"Type": "NodeBlockRef",
@@ -653,12 +657,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-9rj1muh",
-				"updated": "20211225214824"
+				"updated": "20211228130709"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "表格塊的塊標菜單中有操作入口。"
+					"Data": "表格塊的塊標菜單中有作業入口。"
 				}
 			]
 		},
@@ -668,12 +672,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226115356-ha8z0ho",
-				"updated": "20211225221420"
+				"updated": "20211228141228"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "如何使用第三方同步碟進行數據同步？"
+					"Data": "如何使用第三方同步碟進行資料同步？"
 				}
 			]
 		},
@@ -683,7 +687,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226115356-3in0o6m",
-				"updated": "20211226145943"
+				"updated": "20211228141236"
 			},
 			"Children": [
 				{
@@ -741,7 +745,7 @@
 					},
 					"Properties": {
 						"id": "20211226115356-8js1cre",
-						"updated": "20211226145943"
+						"updated": "20211228141231"
 					},
 					"Children": [
 						{
@@ -749,12 +753,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226115356-d8c1p84",
-								"updated": "20211226145943"
+								"updated": "20211228141231"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "思源運行期間請暫停第三方同步，否則可能會出現數據損壞，細節請參考"
+									"Data": "思源運行期間請暫停第三方同步，否則可能會出現資料損壞，細節請參考"
 								},
 								{
 									"Type": "NodeLink",
@@ -795,7 +799,7 @@
 					},
 					"Properties": {
 						"id": "20211226115356-k2pkly3",
-						"updated": "20211225221505"
+						"updated": "20211228141236"
 					},
 					"Children": [
 						{
@@ -803,12 +807,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226115356-74boopf",
-								"updated": "20211225221505"
+								"updated": "20211228141236"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Android 端數據文件夾路徑為 "
+									"Data": "Android 端資料文件夾路徑為 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -828,7 +832,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "，該路徑是應用私有路徑，其他程序無法讀取，只能手動複製"
+									"Data": "，該路徑是應用私有路徑，其他程式無法讀取，只能手動複製"
 								}
 							]
 						}
@@ -973,12 +977,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-2tif6u0",
-				"updated": "20211225221312"
+				"updated": "20211228145251"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "如果是移動端的話卸載重裝即可（"
+					"Data": "如果是行動端的話解除重裝即可（"
 				},
 				{
 					"Type": "NodeTag",
@@ -998,7 +1002,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "：移動端卸載應用時，本地工作空間數據會被一併刪除）。"
+					"Data": "：行動端解除應用時，本地工作空間資料會被一併刪除）。"
 				}
 			]
 		},
@@ -1037,12 +1041,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226115356-m6pif5g",
-				"updated": "20211225214824"
+				"updated": "20211228134849"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "計劃支持插件嗎？"
+					"Data": "計劃支援插件嗎？"
 				}
 			]
 		},
@@ -1051,12 +1055,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-h830v56",
-				"updated": "20211226151013"
+				"updated": "20211228142745"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "思源支持"
+					"Data": "思源支援"
 				},
 				{
 					"Type": "NodeBlockRef",
@@ -1089,7 +1093,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "，可以通過瀏覽器插件來擴展功能。我們很期待其他開發者為思源編寫瀏覽器插件。隨著"
+					"Data": "，可以通過瀏覽器插件來擴充功能。我們很期待其他開發者為思源編寫瀏覽器插件。隨著"
 				},
 				{
 					"Type": "NodeBlockRef",
@@ -1190,12 +1194,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-zk19o1w",
-				"updated": "20211225214824"
+				"updated": "20211228143236"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "非中國大陸地區的用戶請勿付費訂閱，因為思源雲端服務器無法保證非中國大陸地區可用。"
+					"Data": "非中國大陸地區的用戶請勿付費訂閱，因為思源雲端伺服器無法保證非中國大陸地區可用。"
 				}
 			]
 		}

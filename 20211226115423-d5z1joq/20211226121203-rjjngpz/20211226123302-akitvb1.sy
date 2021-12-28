@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226123302-akitvb1",
 		"title": "導入和導出",
-		"updated": "20211226014835"
+		"updated": "20211228134909"
 	},
 	"Children": [
 		{
@@ -27,12 +27,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123315-3jtkxib",
-				"updated": "20211226014835"
+				"updated": "20211228134909"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "思源僅支持導入 Markdown 文件。導入過程主要完成如下轉換處理："
+					"Data": "思源僅支援導入 Markdown 文件。導入過程主要完成如下轉換處理："
 				}
 			]
 		},
@@ -394,7 +394,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226123315-s66xdwg",
-				"updated": "20211226014835"
+				"updated": "20211228104953"
 			},
 			"Children": [
 				{
@@ -429,7 +429,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 處理的，如果需要添加參數，可在文檔上設置一個自定義屬性 "
+					"Data": " 處理的，如果需要新增參數，可在文檔上設置一個自定義屬性 "
 				},
 				{
 					"Type": "NodeCodeSpan",

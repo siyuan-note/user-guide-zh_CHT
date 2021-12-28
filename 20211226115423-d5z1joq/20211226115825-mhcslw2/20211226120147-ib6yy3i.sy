@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226120147-ib6yy3i",
 		"title": "內容塊類型",
-		"updated": "20211226160808"
+		"updated": "20211228140800"
 	},
 	"Children": [
 		{
@@ -27,12 +27,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226120227-dhw60l6",
-				"updated": "20211225225419"
+				"updated": "20211228134745"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "鼠標懸浮在內容塊上左側會出現該內容塊對應的圖標。"
+					"Data": "滑鼠懸浮在內容塊上左側會出現該內容塊對應的圖示。"
 				}
 			]
 		},
@@ -1036,12 +1036,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226120227-9otz7cc",
-				"updated": "20211225225419"
+				"updated": "20211228134939"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "以上就是標題塊，支持一級到六級。"
+					"Data": "以上就是標題塊，支援一級到六級。"
 				}
 			]
 		},
@@ -2030,12 +2030,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226120227-cegwec6",
-				"updated": "20211226125640"
+				"updated": "20211228140800"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "通過列表項塊可以實現大綱式筆記的基本用法，列表項塊是一種"
+					"Data": "通過列表項塊可以實作大綱式筆記的基本用法，列表項塊是一種"
 				},
 				{
 					"Type": "NodeBlockRef",
@@ -2260,7 +2260,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226120227-9thlaul",
-				"updated": "20211226125628"
+				"updated": "20211228135315"
 			},
 			"Children": [
 				{
@@ -2298,7 +2298,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "。可用於組合文檔內連續的內容塊，也用於支持橫向排版。"
+					"Data": "。可用於組合文檔內連續的內容塊，也用於支援橫向排版。"
 				}
 			]
 		},
