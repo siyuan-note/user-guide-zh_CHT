@@ -5,7 +5,7 @@
 		"icon": "1f64f",
 		"id": "20211226114929-08ap1r0",
 		"title": "致謝",
-		"updated": "20211228124248"
+		"updated": "20211226115007"
 	},
 	"Children": [
 		{
@@ -3267,7 +3267,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226115007-uqlcqua",
-				"updated": "20210924163203"
+				"updated": "20211226115007"
 			},
 			"Children": [
 				{
@@ -3278,14 +3278,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226115007-ml4cd8h"
+						"id": "20211226115007-ml4cd8h",
+						"updated": "20211226115007"
 					},
 					"Children": [
 						{
 							"ID": "20211226115007-hgv6a1j",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226115007-hgv6a1j"
+								"id": "20211226115007-hgv6a1j",
+								"updated": "20211226115007"
 							},
 							"Children": [
 								{
@@ -3308,74 +3310,6 @@
 										{
 											"Type": "NodeLinkDest",
 											"Data": "https://github.com/jgm/pandoc"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": " "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "GPL-3.0 License"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20211226115007-ulm9aiy",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20211226115007-ulm9aiy"
-					},
-					"Children": [
-						{
-							"ID": "20211226115007-065f4ec",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20211226115007-065f4ec"
-							},
-							"Children": [
-								{
-									"Type": "NodeLink",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "https://github.com/WayneD/rsync"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://github.com/WayneD/rsync"
 										},
 										{
 											"Type": "NodeCloseParen"
