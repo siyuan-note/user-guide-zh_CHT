@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226123101-qjw03ab",
 		"title": "小工具",
-		"updated": "20211228141612"
+		"updated": "20220108011204"
 	},
 	"Children": [
 		{
@@ -425,12 +425,106 @@
 			]
 		},
 		{
-			"ID": "20211226123118-ax4ppa3",
+			"ID": "20220108011151-drslpt9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20220108011151-drslpt9",
+				"updated": "20220108011151"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "更新"
+				}
+			]
+		},
+		{
+			"ID": "20220108011151-75zyj5c",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20211226123118-ax4ppa3",
-				"updated": "20211226123118"
-			}
+				"id": "20220108011151-75zyj5c",
+				"updated": "20220108011159"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如果你開發的小工具更新了版本，請記得："
+				}
+			]
+		},
+		{
+			"ID": "20220108011151-f9281id",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220108011151-f9281id",
+				"updated": "20220108011204"
+			},
+			"Children": [
+				{
+					"ID": "20220108011151-g9jl2qs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220108011151-g9jl2qs",
+						"updated": "20220108011204"
+					},
+					"Children": [
+						{
+							"ID": "20220108011151-3ufdiae",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220108011151-3ufdiae",
+								"updated": "20220108011204"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "更新你的小工具配置 widget.json 中的 version 欄位"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220108011151-ajwx27a",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220108011151-ajwx27a"
+					},
+					"Children": [
+						{
+							"ID": "20220108011151-4p3o3z0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220108011151-4p3o3z0"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "再次對"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "社區"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "集市發起 Pull Request"
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
