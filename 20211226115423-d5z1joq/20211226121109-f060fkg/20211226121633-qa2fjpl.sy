@@ -1815,7 +1815,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "preview.png（請壓縮圖片大小在 128 KB 以內）"
+									"Data": "preview.png（請壓縮圖片大小在 512 KB 以內）"
 								}
 							]
 						}
