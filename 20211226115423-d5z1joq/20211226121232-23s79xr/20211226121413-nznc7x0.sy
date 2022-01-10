@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121413-nznc7x0",
 		"title": "資料備份和恢復",
-		"updated": "20211228141658"
+		"updated": "20220110114134"
 	},
 	"Children": [
 		{
@@ -99,7 +99,7 @@
 			},
 			"Properties": {
 				"id": "20211226121432-tfz9877",
-				"updated": "20211228141222"
+				"updated": "20220110114131"
 			},
 			"Children": [
 				{
@@ -112,14 +112,16 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211226121432-l8ayvpl"
+						"id": "20211226121432-l8ayvpl",
+						"updated": "20220110114131"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-8z7sxlh",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-8z7sxlh"
+								"id": "20211226121432-8z7sxlh",
+								"updated": "20220110114131"
 							},
 							"Children": [
 								{
@@ -161,10 +163,6 @@
 											"Type": "NodeKbdCloseMarker"
 										}
 									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": "，該密碼僅需配置一次，所有設備上保持相同即可"
 								}
 							]
 						}
@@ -376,7 +374,7 @@
 			},
 			"Properties": {
 				"id": "20211226121432-p59r7ul",
-				"updated": "20211228133519"
+				"updated": "20220110114134"
 			},
 			"Children": [
 				{
@@ -389,14 +387,16 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211226121432-gd80cvp"
+						"id": "20211226121432-gd80cvp",
+						"updated": "20220110114134"
 					},
 					"Children": [
 						{
 							"ID": "20211226121432-0zexezq",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121432-0zexezq"
+								"id": "20211226121432-0zexezq",
+								"updated": "20220110114134"
 							},
 							"Children": [
 								{
@@ -438,10 +438,6 @@
 											"Type": "NodeKbdCloseMarker"
 										}
 									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": "，該密碼僅需配置一次，所有設備上保持相同即可"
 								}
 							]
 						}

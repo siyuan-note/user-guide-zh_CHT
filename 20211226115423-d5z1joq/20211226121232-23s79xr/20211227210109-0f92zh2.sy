@@ -4,9 +4,24 @@
 	"Properties": {
 		"id": "20211227210109-0f92zh2",
 		"title": "端到端加密",
-		"updated": "20211228141355"
+		"updated": "20220110114207"
 	},
 	"Children": [
+		{
+			"ID": "20220110114146-u6sy1u5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220110114146-u6sy1u5",
+				"updated": "20220110114148"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "概述"
+				}
+			]
+		},
 		{
 			"ID": "20211227210129-fcbjzws",
 			"Type": "NodeParagraph",
@@ -133,6 +148,234 @@
 								{
 									"Type": "NodeText",
 									"Data": "用戶設置的密碼使用程式內置金鑰加密後存儲在本地"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220110114207-zrjgaz5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220110114207-zrjgaz5",
+				"updated": "20220110114207"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "密碼生成"
+				}
+			]
+		},
+		{
+			"ID": "20220110114207-nos5pku",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220110114207-nos5pku",
+				"updated": "20220110114207"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "端到端加密密碼有兩種生成方式："
+				}
+			]
+		},
+		{
+			"ID": "20220110114207-48qatwp",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20220110114207-48qatwp",
+				"updated": "20220110114207"
+			},
+			"Children": [
+				{
+					"ID": "20220110114207-hws3yuw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20220110114207-hws3yuw"
+					},
+					"Children": [
+						{
+							"ID": "20220110114207-qhp89hs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110114207-qhp89hs"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基於用戶 id 的算法自動生成"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220110114207-dlc2d3a",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20220110114207-dlc2d3a"
+					},
+					"Children": [
+						{
+							"ID": "20220110114207-tzfreu4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110114207-tzfreu4"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基於用戶自定義密碼生成"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220110114207-nbytbqa",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220110114207-nbytbqa",
+				"updated": "20220110114207"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "注意"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220110114207-ohld939",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220110114207-ohld939",
+				"updated": "20220110114207"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "一旦選定密碼生成方式以後："
+				}
+			]
+		},
+		{
+			"ID": "20220110114207-sqvif7q",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220110114207-sqvif7q",
+				"updated": "20220110114207"
+			},
+			"Children": [
+				{
+					"ID": "20220110114207-3bbiriv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220110114207-3bbiriv"
+					},
+					"Children": [
+						{
+							"ID": "20220110114207-7j5wz5j",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110114207-7j5wz5j"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "所有設備上都需要保持相同的生成方式"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220110114207-fs2r8fw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220110114207-fs2r8fw"
+					},
+					"Children": [
+						{
+							"ID": "20220110114207-w5each0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110114207-w5each0"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "選定生成方式後無法進行切換"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220110114207-2j9ziit",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220110114207-2j9ziit"
+					},
+					"Children": [
+						{
+							"ID": "20220110114207-c73g17p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110114207-c73g17p"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "如果使用自定義密碼，請務必牢記"
 								}
 							]
 						}

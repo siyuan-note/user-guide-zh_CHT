@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121438-xaafdo8",
 		"title": "資料同步",
-		"updated": "20211228141645"
+		"updated": "20220110114127"
 	},
 	"Children": [
 		{
@@ -113,7 +113,7 @@
 			},
 			"Properties": {
 				"id": "20211226121454-jhgfygm",
-				"updated": "20211228141154"
+				"updated": "20220110114127"
 			},
 			"Children": [
 				{
@@ -127,7 +127,7 @@
 					},
 					"Properties": {
 						"id": "20211226121454-uv2o9ya",
-						"updated": "20211228141151"
+						"updated": "20220110114127"
 					},
 					"Children": [
 						{
@@ -135,32 +135,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226121454-jht5wtu",
-								"updated": "20211228141151"
+								"updated": "20220110114127"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "設置端到端加密密碼。"
-								},
-								{
-									"Type": "NodeTag",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeTagOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "注意"
-										},
-										{
-											"Type": "NodeTagCloseMarker"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": "：該密碼一旦設置就不支援修改和查看。如果你忘記了該密碼，你的雲端資料將永久遺失，所以請務必牢記該密碼"
+									"Data": "設置端到端加密密碼"
 								}
 							]
 						}
