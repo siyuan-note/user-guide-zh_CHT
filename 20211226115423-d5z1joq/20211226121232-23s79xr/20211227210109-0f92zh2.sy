@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211227210109-0f92zh2",
 		"title": "端到端加密",
-		"updated": "20220110114207"
+		"updated": "20220111133402"
 	},
 	"Children": [
 		{
@@ -42,7 +42,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211227210129-smiq240",
-				"updated": "20211228125302"
+				"updated": "20220111133402"
 			},
 			"Children": [
 				{
@@ -107,19 +107,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211227210129-2tpzkxi"
+						"id": "20211227210129-2tpzkxi",
+						"updated": "20220111133402"
 					},
 					"Children": [
 						{
 							"ID": "20211227210129-2o43r7t",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211227210129-2o43r7t"
+								"id": "20211227210129-2o43r7t",
+								"updated": "20220111133402"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "除非知道密碼或者暴力破解，否則不可能被解密（開發者也無法解密）"
+									"Data": "除非知道密碼或者暴力破解，否則不可能被解密"
 								}
 							]
 						}

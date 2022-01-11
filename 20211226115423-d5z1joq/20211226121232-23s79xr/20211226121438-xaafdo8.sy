@@ -140,7 +140,15 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "設置端到端加密密碼"
+									"Data": "設置"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "端到端加密"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "密碼"
 								}
 							]
 						}
@@ -177,43 +185,13 @@
 					]
 				},
 				{
-					"ID": "20211226121454-rhu91lp",
+					"ID": "20211226121454-ggm3tr1",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
 						"Delimiter": 46,
 						"Marker": "My4=",
 						"Num": 3
-					},
-					"Properties": {
-						"id": "20211226121454-rhu91lp",
-						"updated": "20211228133005"
-					},
-					"Children": [
-						{
-							"ID": "20211226121454-qw10bsb",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20211226121454-qw10bsb",
-								"updated": "20211228133005"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "選擇同步間隔和同步協議，強烈建議使用預設配置，即自動同步間隔和 SSH 協議"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20211226121454-ggm3tr1",
-					"Type": "NodeListItem",
-					"ListData": {
-						"Typ": 1,
-						"Delimiter": 46,
-						"Marker": "NC4=",
-						"Num": 4
 					},
 					"Properties": {
 						"id": "20211226121454-ggm3tr1"
