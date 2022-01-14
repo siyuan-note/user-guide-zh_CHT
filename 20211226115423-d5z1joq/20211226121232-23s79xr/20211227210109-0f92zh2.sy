@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211227210109-0f92zh2",
 		"title": "端到端加密",
-		"updated": "20220111133402"
+		"updated": "20220115002802"
 	},
 	"Children": [
 		{
@@ -94,34 +94,6 @@
 								{
 									"Type": "NodeText",
 									"Data": "加密演算法為業界公認安全的 AES GCM"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20211227210129-2tpzkxi",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20211227210129-2tpzkxi",
-						"updated": "20220111133402"
-					},
-					"Children": [
-						{
-							"ID": "20211227210129-2o43r7t",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20211227210129-2o43r7t",
-								"updated": "20220111133402"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "除非知道密碼或者暴力破解，否則不可能被解密"
 								}
 							]
 						}
@@ -256,6 +228,83 @@
 			]
 		},
 		{
+			"ID": "20220115002724-yl730ol",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220115002724-yl730ol",
+				"updated": "20220115002724"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "這兩種密碼生成方式的區別是："
+				}
+			]
+		},
+		{
+			"ID": "20220115002724-5byll50",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220115002724-5byll50",
+				"updated": "20220115002724"
+			},
+			"Children": [
+				{
+					"ID": "20220115002724-lxsf22n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220115002724-lxsf22n"
+					},
+					"Children": [
+						{
+							"ID": "20220115002724-3si1p5n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220115002724-3si1p5n"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用 id 生成方式主要是為了簡單方便，但從技術上而言開發者是能夠在雲端解密數據的"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220115002724-qr3gsik",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220115002724-qr3gsik"
+					},
+					"Children": [
+						{
+							"ID": "20220115002724-a7msyfv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220115002724-a7msyfv"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用自定義密碼方式主要是為了更加安全（除非知道密碼或者暴力破解，否則不可能被解密），但操作相對麻煩一點且必須牢記密碼"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
 			"ID": "20220110114207-nbytbqa",
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
@@ -378,6 +427,112 @@
 								{
 									"Type": "NodeText",
 									"Data": "如果使用自定義密碼，請務必牢記"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220115002802-yw2j4sv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220115002802-yw2j4sv",
+				"updated": "20220115002802"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "加密內容"
+				}
+			]
+		},
+		{
+			"ID": "20220115002802-2hu9liw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220115002802-2hu9liw",
+				"updated": "20220115002802"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "data/.siyuan 文件夾和子文件 conf.json、syncignore，這些數據是同步所需的配置和元數據，所以不會被加密。"
+				}
+			]
+		},
+		{
+			"ID": "20220115002802-ypdctfk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220115002802-ypdctfk",
+				"updated": "20220115002802"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "除此以外所有 data 文件夾下的數據都會被加密，具體加密內容為："
+				}
+			]
+		},
+		{
+			"ID": "20220115002802-ntgt6g0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220115002802-ntgt6g0",
+				"updated": "20220115002802"
+			},
+			"Children": [
+				{
+					"ID": "20220115002802-pkl9p2x",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220115002802-pkl9p2x"
+					},
+					"Children": [
+						{
+							"ID": "20220115002802-d040150",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220115002802-d040150"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "文件夾名和文件名（比如 .sy 文件和 assets 資源文件的文件名）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220115002802-6pps56w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220115002802-6pps56w"
+					},
+					"Children": [
+						{
+							"ID": "20220115002802-o0pxks8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220115002802-o0pxks8"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "文件內容"
 								}
 							]
 						}
