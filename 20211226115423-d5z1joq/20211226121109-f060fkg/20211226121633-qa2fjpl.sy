@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121633-qa2fjpl",
 		"title": "圖示",
-		"updated": "20211228134344"
+		"updated": "20211226121706"
 	},
 	"Children": [
 		{
@@ -1708,7 +1708,7 @@
 		{
 			"ID": "20211226121706-yo7ar0b",
 			"Type": "NodeHeading",
-			"HeadingLevel": 3,
+			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226121706-yo7ar0b",
 				"updated": "20211228131800"
@@ -1987,10 +1987,10 @@
 		{
 			"ID": "20211226121706-17w0nbz",
 			"Type": "NodeHeading",
-			"HeadingLevel": 4,
+			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20211226121706-17w0nbz",
-				"updated": "20211226004254"
+				"updated": "20211226121706"
 			},
 			"Children": [
 				{
