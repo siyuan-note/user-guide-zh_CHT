@@ -86,36 +86,6 @@
 			]
 		},
 		{
-			"ID": "20211226123118-jddql0i",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20211226123118-jddql0i",
-				"updated": "20211226005617"
-			},
-			"Children": [
-				{
-					"Type": "NodeTag",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeTagOpenMarker"
-						},
-						{
-							"Type": "NodeText",
-							"Data": "注意"
-						},
-						{
-							"Type": "NodeTagCloseMarker"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": "：目前小工具還在內測中，只有訂閱用戶能夠參與內測使用。"
-				}
-			]
-		},
-		{
 			"ID": "20211226123118-9luabq8",
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
