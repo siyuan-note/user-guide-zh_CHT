@@ -5,7 +5,7 @@
 		"icon": "1f4c4",
 		"id": "20211226114339-dk0gtpr",
 		"title": "隱私條款和使用授權",
-		"updated": "20211228141510"
+		"updated": "20220209213719"
 	},
 	"Children": [
 		{
@@ -14,7 +14,7 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226114859-akdz5kj",
-				"updated": "20211225211904"
+				"updated": "20211226114859"
 			},
 			"Children": [
 				{
@@ -24,65 +24,272 @@
 			]
 		},
 		{
-			"ID": "20211226114859-qugcvrh",
-			"Type": "NodeList",
-			"ListData": {},
+			"ID": "20220209213719-4i5hv55",
+			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20211226114859-qugcvrh",
-				"updated": "20211228141510"
+				"id": "20220209213719-4i5hv55",
+				"updated": "20220209213719"
 			},
 			"Children": [
 				{
-					"ID": "20211226114859-3aowl6g",
+					"Type": "NodeText",
+					"Data": "思源筆記（SiYuan）隱私條款文件，以此聲明對用戶隱私保護的許諾。最近更新時間為 2022 年 2 月 9 日。"
+				}
+			]
+		},
+		{
+			"ID": "20220209213719-hgk4k8x",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20220209213719-hgk4k8x",
+				"updated": "20220209213719"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "是否會收集個人信息或數據？"
+				}
+			]
+		},
+		{
+			"ID": "20220209213719-1nsku6g",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220209213719-1nsku6g",
+				"updated": "20220209213719"
+			},
+			"Children": [
+				{
+					"ID": "20220209213719-7qo0572",
 					"Type": "NodeListItem",
 					"ListData": {
 						"BulletChar": 42,
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226114859-3aowl6g",
-						"updated": "20211228141507"
+						"id": "20220209213719-7qo0572"
 					},
 					"Children": [
 						{
-							"ID": "20211226114859-tp03auw",
+							"ID": "20220209213719-3vs281a",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226114859-tp03auw",
-								"updated": "20211228141507"
+								"id": "20220209213719-3vs281a"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "所有資料都保存在用戶自己完全控制的設備上"
+									"Data": "不會收集用戶個人信息和使用數據（筆記、資源文件、操作記錄和程序日誌等任何形式的數據）"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20211226114859-lzsunx2",
+					"ID": "20220209213719-y8pyky7",
 					"Type": "NodeListItem",
 					"ListData": {
 						"BulletChar": 42,
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226114859-lzsunx2",
-						"updated": "20211228141510"
+						"id": "20220209213719-y8pyky7"
 					},
 					"Children": [
 						{
-							"ID": "20211226114859-hrvp9bn",
+							"ID": "20220209213719-bbz6ck2",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226114859-hrvp9bn",
-								"updated": "20211228141510"
+								"id": "20220209213719-bbz6ck2"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "不會收集任何使用資料"
+									"Data": "所有數據都保持在用戶自己完全控制的設備上"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220209213719-b98pfw5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20220209213719-b98pfw5",
+				"updated": "20220209213719"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "開發者信息和聯繫方式"
+				}
+			]
+		},
+		{
+			"ID": "20220209213719-g5p2z81",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220209213719-g5p2z81",
+				"updated": "20220209213719"
+			},
+			"Children": [
+				{
+					"ID": "20220209213719-pfnvmhf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213719-pfnvmhf"
+					},
+					"Children": [
+						{
+							"ID": "20220209213719-mz4obm9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213719-mz4obm9"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "思源筆記由雲南鏈滴科技有限公司設計並開發"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220209213719-nthqrkt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213719-nthqrkt"
+					},
+					"Children": [
+						{
+							"ID": "20220209213719-o7suirw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213719-o7suirw"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "可通過 845765@qq.com 進行聯繫"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220209213719-7j41i37",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20220209213719-7j41i37",
+				"updated": "20220209213719"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "查看隱私條款方式"
+				}
+			]
+		},
+		{
+			"ID": "20220209213719-tyygdwq",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220209213719-tyygdwq",
+				"updated": "20220209213719"
+			},
+			"Children": [
+				{
+					"ID": "20220209213719-rtpiz71",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213719-rtpiz71"
+					},
+					"Children": [
+						{
+							"ID": "20220209213719-n9abh6p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213719-n9abh6p"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "通過訪問網頁 "
+								},
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "https://b3log.org/siyuan/privacy.html"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://b3log.org/siyuan/privacy.html"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220209213719-4owze67",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213719-4owze67"
+					},
+					"Children": [
+						{
+							"ID": "20220209213719-zb7xdfk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213719-zb7xdfk"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在軟件中點擊“幫助”，在打開的《思源筆記用戶指南》中打開《隱私條款和使用授權》文檔"
 								}
 							]
 						}
