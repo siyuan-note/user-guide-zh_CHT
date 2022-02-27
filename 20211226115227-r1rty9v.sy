@@ -5,7 +5,7 @@
 		"icon": "2753",
 		"id": "20211226115227-r1rty9v",
 		"title": "常見問題",
-		"updated": "20220208224549"
+		"updated": "20211226115356"
 	},
 	"Children": [
 		{
@@ -1219,18 +1219,22 @@
 		{
 			"ID": "20211226115356-985lne8",
 			"Type": "NodeList",
-			"ListData": {},
+			"ListData": {
+				"Typ": 1
+			},
 			"Properties": {
 				"id": "20211226115356-985lne8",
-				"updated": "20211225214824"
+				"updated": "20211226115356"
 			},
 			"Children": [
 				{
 					"ID": "20211226115356-o8rp4od",
 					"Type": "NodeListItem",
 					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
 					},
 					"Properties": {
 						"id": "20211226115356-o8rp4od"
@@ -1255,8 +1259,10 @@
 					"ID": "20211226115356-wdxpema",
 					"Type": "NodeListItem",
 					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
 					},
 					"Properties": {
 						"id": "20211226115356-wdxpema"
@@ -1281,8 +1287,10 @@
 					"ID": "20211226115356-5iftoc4",
 					"Type": "NodeListItem",
 					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
 					},
 					"Properties": {
 						"id": "20211226115356-5iftoc4",
