@@ -230,8 +230,12 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
+									"ID": "20220307092237-il1a9cm",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%內容塊%' AND type = 'i' }}\n"
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%內容塊%' AND type = 'i' }}\n",
+									"Properties": {
+										"id": "20220307092237-il1a9cm"
+									}
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
@@ -322,8 +326,12 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
+									"ID": "20220307092237-p737tab",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%內容塊%' AND content LIKE '%引用%' AND type = 'p') }}\n"
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%內容塊%' AND content LIKE '%引用%' AND type = 'p') }}\n",
+									"Properties": {
+										"id": "20220307092237-p737tab"
+									}
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
@@ -414,8 +422,12 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
+									"ID": "20220307092237-15k4ape",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%內容塊%' AND content LIKE '%嵌入%' AND type = 'h' ORDER BY updated DESC LIMIT 2 }}\n"
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%內容塊%' AND content LIKE '%嵌入%' AND type = 'h' ORDER BY updated DESC LIMIT 2 }}\n",
+									"Properties": {
+										"id": "20220307092237-15k4ape"
+									}
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
