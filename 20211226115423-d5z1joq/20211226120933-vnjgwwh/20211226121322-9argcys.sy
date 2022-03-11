@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121322-9argcys",
 		"title": "類型過濾",
-		"updated": "20211228134235"
+		"updated": "20220312005349"
 	},
 	"Children": [
 		{
@@ -44,7 +44,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121740-fx0gvyk",
-				"updated": "20211225235048"
+				"updated": "20220312005349"
 			},
 			"Children": [
 				{
@@ -462,6 +462,50 @@
 								{
 									"Type": "NodeText",
 									"Data": " 段落塊"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220312005340-ft1r5k1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220312005340-ft1r5k1",
+						"updated": "20220312005349"
+					},
+					"Children": [
+						{
+							"ID": "20220312005340-i91ik2c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220312005340-i91ik2c",
+								"updated": "20220312005349"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "html"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " HTML 塊"
 								}
 							]
 						}

@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121808-fnxmngk",
 		"title": "資料庫表",
-		"updated": "20211228141756"
+		"updated": "20220312005849"
 	},
 	"Children": [
 		{
@@ -707,7 +707,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121831-oj726eb",
-				"updated": "20211228134348"
+				"updated": "20220312005849"
 			},
 			"Children": [
 				{
@@ -765,7 +765,7 @@
 					},
 					"Properties": {
 						"id": "20211226121831-zs0ji69",
-						"updated": "20211228134348"
+						"updated": "20220312005849"
 					},
 					"Children": [
 						{
@@ -803,7 +803,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20211226121831-6ak7dij"
+								"id": "20211226121831-6ak7dij",
+								"updated": "20220312005849"
 							},
 							"Children": [
 								{
@@ -891,26 +892,28 @@
 									]
 								},
 								{
-									"ID": "20211226121831-p878ywt",
+									"ID": "20211226121831-ofx3rde",
 									"Type": "NodeListItem",
 									"ListData": {
 										"BulletChar": 42,
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121831-p878ywt"
+										"id": "20211226121831-ofx3rde",
+										"updated": "20220312005811"
 									},
 									"Children": [
 										{
-											"ID": "20211226121831-kdypk2a",
+											"ID": "20211226121831-x6nehx4",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121831-kdypk2a"
+												"id": "20211226121831-x6nehx4",
+												"updated": "20220312005811"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "列表塊："
+													"Data": "段落塊："
 												},
 												{
 													"Type": "NodeCodeSpan",
@@ -933,26 +936,28 @@
 									]
 								},
 								{
-									"ID": "20211226121831-gioju38",
+									"ID": "20211226121831-wsuo0rv",
 									"Type": "NodeListItem",
 									"ListData": {
 										"BulletChar": 42,
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121831-gioju38"
+										"id": "20211226121831-wsuo0rv",
+										"updated": "20220312005817"
 									},
 									"Children": [
 										{
-											"ID": "20211226121831-e7zsjd2",
+											"ID": "20211226121831-4j702is",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121831-e7zsjd2"
+												"id": "20211226121831-4j702is",
+												"updated": "20220312005817"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "列表項塊："
+													"Data": "代碼塊："
 												},
 												{
 													"Type": "NodeCodeSpan",
@@ -963,7 +968,7 @@
 														},
 														{
 															"Type": "NodeCodeSpanContent",
-															"Data": "15"
+															"Data": "10"
 														},
 														{
 															"Type": "NodeCodeSpanCloseMarker"
@@ -975,26 +980,160 @@
 									]
 								},
 								{
-									"ID": "20211226121831-wsuo0rv",
+									"ID": "20211226121831-jece3i2",
 									"Type": "NodeListItem",
 									"ListData": {
 										"BulletChar": 42,
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121831-wsuo0rv"
+										"id": "20211226121831-jece3i2",
+										"updated": "20220312005831"
 									},
 									"Children": [
 										{
-											"ID": "20211226121831-4j702is",
+											"ID": "20211226121831-gm9gxxq",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121831-4j702is"
+												"id": "20211226121831-gm9gxxq",
+												"updated": "20220312005823"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "代碼塊："
+													"Data": "數學公式塊："
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "10"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211226121831-4i8qhs0",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211226121831-4i8qhs0",
+										"updated": "20220312005829"
+									},
+									"Children": [
+										{
+											"ID": "20211226121831-x0e87cg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211226121831-x0e87cg",
+												"updated": "20220312005829"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "表格塊："
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "10"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220312005431-qjzv3fu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220312005431-qjzv3fu",
+										"updated": "20220312005442"
+									},
+									"Children": [
+										{
+											"ID": "20220312005431-n8fa5kh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220312005431-n8fa5kh",
+												"updated": "20220312005442"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "HTML塊："
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "10"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211226121831-p878ywt",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211226121831-p878ywt",
+										"updated": "20220312005839"
+									},
+									"Children": [
+										{
+											"ID": "20211226121831-kdypk2a",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211226121831-kdypk2a",
+												"updated": "20220312005839"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "列表塊："
 												},
 												{
 													"Type": "NodeCodeSpan",
@@ -1017,26 +1156,28 @@
 									]
 								},
 								{
-									"ID": "20211226121831-jece3i2",
+									"ID": "20211226121831-gioju38",
 									"Type": "NodeListItem",
 									"ListData": {
 										"BulletChar": 42,
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121831-jece3i2"
+										"id": "20211226121831-gioju38",
+										"updated": "20220312005842"
 									},
 									"Children": [
 										{
-											"ID": "20211226121831-gm9gxxq",
+											"ID": "20211226121831-e7zsjd2",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121831-gm9gxxq"
+												"id": "20211226121831-e7zsjd2",
+												"updated": "20220312005842"
 											},
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "數學公式塊："
+													"Data": "列表項塊："
 												},
 												{
 													"Type": "NodeCodeSpan",
@@ -1047,49 +1188,7 @@
 														},
 														{
 															"Type": "NodeCodeSpanContent",
-															"Data": "25"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20211226121831-4i8qhs0",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20211226121831-4i8qhs0"
-									},
-									"Children": [
-										{
-											"ID": "20211226121831-x0e87cg",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20211226121831-x0e87cg"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "表格塊："
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"Data": "code",
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "30"
+															"Data": "20"
 														},
 														{
 															"Type": "NodeCodeSpanCloseMarker"
@@ -1108,14 +1207,16 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121831-eb4pipx"
+										"id": "20211226121831-eb4pipx",
+										"updated": "20220312005846"
 									},
 									"Children": [
 										{
 											"ID": "20211226121831-nnlawsk",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121831-nnlawsk"
+												"id": "20211226121831-nnlawsk",
+												"updated": "20220312005846"
 											},
 											"Children": [
 												{
@@ -1131,7 +1232,7 @@
 														},
 														{
 															"Type": "NodeCodeSpanContent",
-															"Data": "35"
+															"Data": "20"
 														},
 														{
 															"Type": "NodeCodeSpanCloseMarker"
@@ -1150,14 +1251,16 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20211226121831-xmaqgov"
+										"id": "20211226121831-xmaqgov",
+										"updated": "20220312005849"
 									},
 									"Children": [
 										{
 											"ID": "20211226121831-tjjqrlu",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20211226121831-tjjqrlu"
+												"id": "20211226121831-tjjqrlu",
+												"updated": "20220312005849"
 											},
 											"Children": [
 												{
@@ -1173,49 +1276,7 @@
 														},
 														{
 															"Type": "NodeCodeSpanContent",
-															"Data": "40"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20211226121831-ofx3rde",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20211226121831-ofx3rde"
-									},
-									"Children": [
-										{
-											"ID": "20211226121831-x6nehx4",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20211226121831-x6nehx4"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "段落塊："
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"Data": "code",
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "45"
+															"Data": "30"
 														},
 														{
 															"Type": "NodeCodeSpanCloseMarker"
