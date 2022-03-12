@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226120349-rbkmozu",
 		"title": "在内容塊中遨遊",
-		"updated": "20211228134731"
+		"updated": "20220312233003"
 	},
 	"Children": [
 		{
@@ -146,7 +146,7 @@
 			"Properties": {
 				"fold": "0",
 				"id": "20211226120415-x0dza6r",
-				"updated": "20211225232741"
+				"updated": "20220312233003"
 			},
 			"Children": [
 				{
@@ -157,19 +157,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226120415-o9zkmbm"
+						"id": "20211226120415-o9zkmbm",
+						"updated": "20220312233003"
 					},
 					"Children": [
 						{
 							"ID": "20211226120415-kqz15j6",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226120415-kqz15j6"
+								"id": "20211226120415-kqz15j6",
+								"updated": "20220312233003"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "在塊標上右鍵下拉菜單中選擇進入後，編輯器會聚焦到該內容塊上"
+									"Data": "在塊標上右鍵下拉菜單中選擇聚焦後，編輯器會聚焦到該內容塊上"
 								}
 							]
 						}
