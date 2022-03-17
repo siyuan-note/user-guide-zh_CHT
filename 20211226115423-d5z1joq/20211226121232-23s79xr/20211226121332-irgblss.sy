@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121332-irgblss",
 		"title": "資料文件圖庫",
-		"updated": "20211228141347"
+		"updated": "20220317224655"
 	},
 	"Children": [
 		{
@@ -30,7 +30,7 @@
 			},
 			"Properties": {
 				"id": "20211226121407-iocuon0",
-				"updated": "20211228141347"
+				"updated": "20220317224655"
 			},
 			"Children": [
 				{
@@ -44,7 +44,7 @@
 					},
 					"Properties": {
 						"id": "20211226121407-gvqi3gd",
-						"updated": "20211228141347"
+						"updated": "20220317224655"
 					},
 					"Children": [
 						{
@@ -200,7 +200,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226121407-m4673z3",
-								"updated": "20211228104834"
+								"updated": "20220317224655"
 							},
 							"Children": [
 								{
@@ -208,18 +208,18 @@
 									"Data": "文檔右上角 "
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
+									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker"
+											"Type": "NodeKbdOpenMarker"
 										},
 										{
-											"Type": "NodeCodeSpanContent",
+											"Type": "NodeText",
 											"Data": "..."
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker"
+											"Type": "NodeKbdCloseMarker"
 										}
 									]
 								},
