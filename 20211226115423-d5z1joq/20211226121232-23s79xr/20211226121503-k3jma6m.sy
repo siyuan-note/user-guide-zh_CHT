@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121503-k3jma6m",
 		"title": "存儲空間",
-		"updated": "20211228141330"
+		"updated": "20211226121514"
 	},
 	"Children": [
 		{
@@ -141,7 +141,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121514-3o4937u",
-				"updated": "20211226005932"
+				"updated": "20211226121514"
 			},
 			"Children": [
 				{
@@ -169,28 +169,6 @@
 					"Data": "。"
 				}
 			]
-		},
-		{
-			"ID": "20211226121514-o1i787b",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20211226121514-o1i787b",
-				"updated": "20211226005932"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "付費訂閱到期以後，雲端存儲會保留 1 個月，如果在此期間沒有續費，1 個月以後將徹底刪除。"
-				}
-			]
-		},
-		{
-			"ID": "20211226121534-wmkvatw",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20211226121534-wmkvatw",
-				"updated": "20211226121534"
-			}
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20220105101348-corstqc",
 		"title": "限制",
-		"updated": "20220105101424"
+		"updated": "20220325115500"
 	},
 	"Children": [
 		{
@@ -13,7 +13,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20220105101409-es213ce",
-				"updated": "20220105101424"
+				"updated": "20220325115500"
 			},
 			"Children": [
 				{
@@ -24,19 +24,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20220105101409-r9z7pa7"
+						"id": "20220105101409-r9z7pa7",
+						"updated": "20220325115500"
 					},
 					"Children": [
 						{
 							"ID": "20220105101409-jfva42o",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220105101409-jfva42o"
+								"id": "20220105101409-jfva42o",
+								"updated": "20220325115500"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "同步或備份時，不支持大於 100Mb 的單個文件傳輸"
+									"Data": "同步或備份時，不支持大於 100MB 的單個文件傳輸"
 								}
 							]
 						}
@@ -119,7 +121,7 @@
 					},
 					"Properties": {
 						"id": "20220105101409-7he9vg5",
-						"updated": "20220105101424"
+						"updated": "20220325115431"
 					},
 					"Children": [
 						{
@@ -127,12 +129,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20220105101409-xyalcc9",
-								"updated": "20220105101424"
+								"updated": "20220325115431"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "付費訂閱到期以後，雲端存儲會保留 1 個月，如果在此期間沒有續費，1 個月以後將徹底刪除"
+									"Data": "付費訂閱到期以後，雲端存儲會被徹底刪除"
 								}
 							]
 						}
