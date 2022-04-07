@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226122728-cnqf7rz",
 		"title": "超連結",
-		"updated": "20220312232908"
+		"updated": "20220407101637"
 	},
 	"Children": [
 		{
@@ -176,7 +176,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226122740-ndxef8x",
-				"updated": "20211228135324"
+				"updated": "20220407101637"
 			},
 			"Children": [
 				{
@@ -196,7 +196,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122740-3tqa0lp",
-								"updated": "20211228135324"
+								"updated": "20220407101252"
 							},
 							"Children": [
 								{
@@ -221,7 +221,315 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 協議；Linux 暫不支援該功能"
+									"Data": " 協議"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220407101252-wamwefo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220407101252-wamwefo",
+						"updated": "20220407101441"
+					},
+					"Children": [
+						{
+							"ID": "20220407101310-jo4kw2b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220407101310-jo4kw2b",
+								"updated": "20220407101310"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在 Linux 上請嘗試如下步驟"
+								}
+							]
+						},
+						{
+							"ID": "20220407101310-bgqqmi9",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220407101310-bgqqmi9",
+								"updated": "20220407101441"
+							},
+							"Children": [
+								{
+									"ID": "20220407101310-fahpj3n",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220407101310-fahpj3n"
+									},
+									"Children": [
+										{
+											"ID": "20220407101310-wyg6c0l",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220407101310-wyg6c0l"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "創建或者找到 "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "siyuan.desktop"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " 文件，並打開編輯"
+												}
+											]
+										},
+										{
+											"ID": "20220407101310-8yliefs",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20220407101310-8yliefs"
+											},
+											"Children": [
+												{
+													"ID": "20220407101310-rqkhv3e",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20220407101310-rqkhv3e"
+													},
+													"Children": [
+														{
+															"ID": "20220407101310-m2ypc07",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20220407101310-m2ypc07"
+															},
+															"Children": [
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "MimeType=MimeType=x-scheme-handler/siyuan;"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20220407101310-888xsgc",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20220407101310-888xsgc"
+													},
+													"Children": [
+														{
+															"ID": "20220407101310-4s4xsu5",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20220407101310-4s4xsu5"
+															},
+															"Children": [
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "Exec"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 末尾加入 "
+																},
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "%u"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "，即 "
+																},
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "Exec=可執行文件路徑 %u"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220407101310-m7boufe",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220407101310-m7boufe",
+										"updated": "20220407101441"
+									},
+									"Children": [
+										{
+											"ID": "20220407101310-hy9ktdu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220407101310-hy9ktdu",
+												"updated": "20220407101441"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "執行以下命令"
+												}
+											]
+										},
+										{
+											"ID": "20220407101310-nwr54ao",
+											"Type": "NodeCodeBlock",
+											"IsFencedCodeBlock": true,
+											"Properties": {
+												"id": "20220407101310-nwr54ao"
+											},
+											"Children": [
+												{
+													"Type": "NodeCodeBlockFenceOpenMarker",
+													"Data": "```"
+												},
+												{
+													"Type": "NodeCodeBlockFenceInfoMarker",
+													"CodeBlockInfo": "amF2YQ=="
+												},
+												{
+													"Type": "NodeCodeBlockCode",
+													"Data": "sudo update-desktop-database\nxdg-mime default siyuan.desktop x-scheme-handler/siyuan\nxdg-settings set default-url-scheme-handler siyuan siyuan.desktop\n"
+												},
+												{
+													"Type": "NodeCodeBlockFenceCloseMarker",
+													"Data": "```"
+												}
+											]
+										},
+										{
+											"ID": "20220407101310-9st6ipm",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220407101310-9st6ipm"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "更多細節可參考 "
+												},
+												{
+													"Type": "NodeLink",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeOpenBracket"
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "xdg-utils"
+														},
+														{
+															"Type": "NodeCloseBracket"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "https://www.freedesktop.org/wiki/Software/xdg-utils/"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "。"
+												}
+											]
+										}
+									]
 								}
 							]
 						}
@@ -236,7 +544,7 @@
 					},
 					"Properties": {
 						"id": "20211226122740-32793j4",
-						"updated": "20211226152722"
+						"updated": "20220407101637"
 					},
 					"Children": [
 						{
@@ -244,12 +552,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122740-0ub46as",
-								"updated": "20211226152722"
+								"updated": "20220407101637"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "塊標 - 右鍵菜單 - 複製 - 複製塊超連結"
+									"Data": "塊標菜單 - 複製 - 複製塊超連結"
 								}
 							]
 						}
