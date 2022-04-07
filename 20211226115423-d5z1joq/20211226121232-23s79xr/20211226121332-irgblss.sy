@@ -4,9 +4,23 @@
 	"Properties": {
 		"id": "20211226121332-irgblss",
 		"title": "資料文件圖庫",
-		"updated": "20220317224655"
+		"updated": "20220407090016"
 	},
 	"Children": [
+		{
+			"ID": "20220407085912-m2tn931",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220407085912-m2tn931",
+				"updated": "20220407085913"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "思源提供了雲端圖床服務，主要用於將文檔帶資源文件複製到微信公眾號、知乎和語雀等平台，這些平台的編輯器在粘貼時會自動拉取資源文件到它們的平台上。"
+				}
+			]
+		},
 		{
 			"ID": "20211226121407-ka3cqan",
 			"Type": "NodeHeading",
@@ -30,11 +44,11 @@
 			},
 			"Properties": {
 				"id": "20211226121407-iocuon0",
-				"updated": "20220317224655"
+				"updated": "20220407090016"
 			},
 			"Children": [
 				{
-					"ID": "20211226121407-gvqi3gd",
+					"ID": "20220407085934-xbaj5uv",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -43,164 +57,16 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211226121407-gvqi3gd",
-						"updated": "20220317224655"
+						"id": "20220407085934-xbaj5uv",
+						"updated": "20220407090016"
 					},
 					"Children": [
 						{
-							"ID": "20211226121407-6anli7v",
-							"Type": "NodeHeading",
-							"HeadingLevel": 1,
-							"Properties": {
-								"id": "20211226121407-6anli7v",
-								"updated": "20211226121354"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "端到端加密"
-								}
-							]
-						},
-						{
-							"ID": "20211226121407-zgks8io",
+							"ID": "20220407085934-94nitto",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121407-zgks8io",
-								"updated": "20211228141347"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "思源在進行備份和同步前會進行資料加密，加密後的資料可以放心地進行網絡傳輸和托管。"
-								}
-							]
-						},
-						{
-							"ID": "20211226121407-cktvb9a",
-							"Type": "NodeList",
-							"ListData": {},
-							"Properties": {
-								"id": "20211226121407-cktvb9a",
-								"updated": "20211228125256"
-							},
-							"Children": [
-								{
-									"ID": "20211226121407-w35uzzy",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20211226121407-w35uzzy"
-									},
-									"Children": [
-										{
-											"ID": "20211226121407-cnmtkth",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20211226121407-cnmtkth"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "加密和解密過程完全在本地設備上進行"
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20211226121407-7vfear1",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20211226121407-7vfear1",
-										"updated": "20211228125256"
-									},
-									"Children": [
-										{
-											"ID": "20211226121407-isrod33",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20211226121407-isrod33",
-												"updated": "20211228125256"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "加密演算法為業界公認安全的 AES GCM"
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20211226121407-nexb1b0",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20211226121407-nexb1b0"
-									},
-									"Children": [
-										{
-											"ID": "20211226121407-vbu0jsl",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20211226121407-vbu0jsl"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "除非知道密碼或者暴力破解，否則不可能被解密（開發者也無法解密）"
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20211226121407-vfmolsu",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20211226121407-vfmolsu",
-										"updated": "20211228124709"
-									},
-									"Children": [
-										{
-											"ID": "20211226121407-bcl9gmx",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20211226121407-bcl9gmx",
-												"updated": "20211228124709"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "用戶設置的密碼使用程式內置金鑰加密後存儲在本地"
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"ID": "20211226121407-m4673z3",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20211226121407-m4673z3",
-								"updated": "20220317224655"
+								"id": "20220407085934-94nitto",
+								"updated": "20220407090016"
 							},
 							"Children": [
 								{
@@ -236,16 +102,12 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "上傳資料文件到"
+											"Data": "上傳資料檔到雲端"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
 										}
 									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": "雲端圖庫"
 								}
 							]
 						}
@@ -422,6 +284,50 @@
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20220407085826-xy79zah",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220407085826-xy79zah",
+				"updated": "20220407085827"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如果需要刪除雲端圖床中的資源文件，請到 "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "鏈滴 - 設置 - 文件 - 筆記端"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://ld246.com/settings/file?type=3"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 操作。"
 				}
 			]
 		},
