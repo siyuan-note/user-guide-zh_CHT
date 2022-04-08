@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121332-irgblss",
 		"title": "資料文件圖庫",
-		"updated": "20220407090016"
+		"updated": "20220408193132"
 	},
 	"Children": [
 		{
@@ -292,7 +292,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20220407085826-xy79zah",
-				"updated": "20220407085827"
+				"updated": "20220408193132"
 			},
 			"Children": [
 				{
@@ -327,7 +327,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " 操作。"
+					"Data": " 操作。刪除後該文件佔用的雲端存儲空間會立即釋放，但是 CDN 緩存清理可能無法及時生效，這會導致該文件 URL 依然可以訪問，直到 CDN 緩存 30 天以後自動過期。"
 				}
 			]
 		},
