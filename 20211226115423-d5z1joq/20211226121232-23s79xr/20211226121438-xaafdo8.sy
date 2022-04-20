@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121438-xaafdo8",
 		"title": "資料同步",
-		"updated": "20220307095239"
+		"updated": "20220420100403"
 	},
 	"Children": [
 		{
@@ -1054,9 +1054,37 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121454-kv5itch",
-				"updated": "20211228141216"
+				"updated": "20220420100403"
 			},
 			"Children": [
+				{
+					"ID": "20220420100402-490hslt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220420100402-490hslt",
+						"updated": "20220420100403"
+					},
+					"Children": [
+						{
+							"ID": "20220420100402-5hyxqsg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220420100402-5hyxqsg",
+								"updated": "20220420100403"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "睡眠或關機等突然斷網的情況下不會觸發同步，請手動點擊同步按鈕進行同步"
+								}
+							]
+						}
+					]
+				},
 				{
 					"ID": "20211226121454-4vhcu0v",
 					"Type": "NodeListItem",
@@ -1077,7 +1105,15 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "重命名或刪除雲端目錄前，請在所有設備上關閉同步後再修改或刪除"
+									"Data": "重命名或刪除"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "雲端"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "目錄前，請在所有設備上關閉同步後再修改或刪除"
 								}
 							]
 						}
