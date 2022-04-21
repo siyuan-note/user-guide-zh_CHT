@@ -5,7 +5,7 @@
 		"icon": "2753",
 		"id": "20211226115227-r1rty9v",
 		"title": "常見問題",
-		"updated": "20220329160520"
+		"updated": "20220421192629"
 	},
 	"Children": [
 		{
@@ -1056,6 +1056,148 @@
 				{
 					"Type": "NodeText",
 					"Data": "表格塊的塊標菜單中有作業入口。"
+				}
+			]
+		},
+		{
+			"ID": "20220421192606-o093rti",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220421192606-o093rti",
+				"updated": "20220421192606"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如何搜索包含符號的內容？"
+				}
+			]
+		},
+		{
+			"ID": "20220421192606-fmhxfvg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220421192606-fmhxfvg",
+				"updated": "20220421192629"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如果需要搜索包含符號（ "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "-"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "、"
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "*"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 等）的內容，需要使用 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\""
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 包裹關鍵字，比如 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\"-siyuan\""
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。具體細節請參考"
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20220415232129-shpzg6r"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "查詢語法"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
 				}
 			]
 		},
