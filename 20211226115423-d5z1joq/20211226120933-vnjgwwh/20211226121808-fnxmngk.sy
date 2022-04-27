@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121808-fnxmngk",
 		"title": "資料庫表",
-		"updated": "20220419111132"
+		"updated": "20220427104444"
 	},
 	"Children": [
 		{
@@ -751,7 +751,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226121831-oj726eb",
-				"updated": "20220312005849"
+				"updated": "20220427104444"
 			},
 			"Children": [
 				{
@@ -762,14 +762,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121831-pk3bq3y"
+						"id": "20211226121831-pk3bq3y",
+						"updated": "20220427104444"
 					},
 					"Children": [
 						{
 							"ID": "20211226121831-6cm01kl",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121831-6cm01kl"
+								"id": "20211226121831-6cm01kl",
+								"updated": "20220427104444"
 							},
 							"Children": [
 								{
@@ -794,7 +796,67 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "，則最多只返回前 32 條結果"
+									"Data": "，則最多只返回前 64 條結果，可通过 "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "设置"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "搜索"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "搜索結果顯示數"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 进行调整"
 								}
 							]
 						}
