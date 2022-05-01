@@ -5,7 +5,7 @@
 		"icon": "2753",
 		"id": "20211226115227-r1rty9v",
 		"title": "常見問題",
-		"updated": "20220421192629"
+		"updated": "20220501231338"
 	},
 	"Children": [
 		{
@@ -972,12 +972,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-2wnhnjm",
-				"updated": "20211225221653"
+				"updated": "20220501230240"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "將標題摺疊以後再移動。"
+					"Data": "將標題摺疊以後再移動。請注意是移動，不是剪切，折疊標題剪切不會帶下方塊。"
 				}
 			]
 		},
@@ -1056,6 +1056,55 @@
 				{
 					"Type": "NodeText",
 					"Data": "表格塊的塊標菜單中有作業入口。"
+				}
+			]
+		},
+		{
+			"ID": "20220501231338-vlg2lgm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220501231338-vlg2lgm",
+				"updated": "20220501231338"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "有的塊（比如在列表項中的段落塊）找不到塊標怎麼辦？"
+				}
+			]
+		},
+		{
+			"ID": "20220501231338-vs50rai",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220501231338-vs50rai",
+				"updated": "20220501231338"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在列表項下的第一個子塊是省略塊標的。可以將光標移到這個塊中，然後通過 "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Ctrl+/"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 觸發它的塊標菜單。"
 				}
 			]
 		},
