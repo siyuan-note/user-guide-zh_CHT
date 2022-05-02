@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226122943-st7fpcj",
-		"title": "PDF 標注雙連",
-		"updated": "20211228135006"
+		"title": "PDF 標注",
+		"updated": "20220502141013"
 	},
 	"Children": [
 		{
@@ -131,12 +131,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211226122955-ganeraz",
-				"updated": "20211226152824"
+				"updated": "20220502141013"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "標註雙連"
+					"Data": "標註"
 				}
 			]
 		},
@@ -145,12 +145,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226122955-qghj4a6",
-				"updated": "20211226153647"
+				"updated": "20220502141012"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "PDF 預覽時可使用劃選進行標注，標注可複製到文檔中形成雙向連結："
+					"Data": "PDF 預覽時可使用劃選進行標注，標注可複製到文檔中形成連結："
 				}
 			]
 		},
