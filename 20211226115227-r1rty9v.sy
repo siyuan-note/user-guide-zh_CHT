@@ -5,7 +5,7 @@
 		"icon": "2753",
 		"id": "20211226115227-r1rty9v",
 		"title": "常見問題",
-		"updated": "20220501231338"
+		"updated": "20220502163402"
 	},
 	"Children": [
 		{
@@ -861,7 +861,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226115356-rn32tpl",
-				"updated": "20211228130658"
+				"updated": "20220502163402"
 			},
 			"Children": [
 				{
@@ -887,7 +887,7 @@
 						},
 						{
 							"Type": "NodeBlockRefText",
-							"Data": "編輯歷史"
+							"Data": "數據歷史"
 						},
 						{
 							"Type": "NodeCloseParen"

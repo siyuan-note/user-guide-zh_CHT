@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211226122707-8cr09co",
-		"title": "編輯歷史",
-		"updated": "20220501135220"
+		"title": "數據歷史",
+		"updated": "20220502163408"
 	},
 	"Children": [
 		{
@@ -27,12 +27,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20220501135134-32jh3vi",
-				"updated": "20220501135134"
+				"updated": "20220502163408"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "編輯歷史主要用於保證數據安全，即使發生誤操作也能通過歷史進行數據回滾。歷史數據統一保存在 "
+					"Data": "數據歷史主要用於保證數據安全，即使發生誤操作也能通過歷史進行數據回滾。歷史數據統一保存在 "
 				},
 				{
 					"Type": "NodeCodeSpan",
