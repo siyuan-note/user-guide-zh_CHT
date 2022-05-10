@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226121438-xaafdo8",
 		"title": "資料同步",
-		"updated": "20220420100403"
+		"updated": "20220510105029"
 	},
 	"Children": [
 		{
@@ -414,12 +414,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211226121454-qo8jhii",
-				"updated": "20220307092253"
+				"updated": "20220510104916"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "每隔一段時間，思源會自動比較一次雲端和本地資料版本，根據版本進行相應作業："
+					"Data": "思源通過對比雲端數據版本和本地數據版本進行相應作業："
 				}
 			]
 		},
@@ -440,14 +440,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226121454-t7668m6"
+						"id": "20211226121454-t7668m6",
+						"updated": "20211226121454"
 					},
 					"Children": [
 						{
 							"ID": "20211226121454-lci1ctl",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211226121454-lci1ctl"
+								"id": "20211226121454-lci1ctl",
+								"updated": "20211226121454"
 							},
 							"Children": [
 								{
@@ -467,7 +469,7 @@
 					},
 					"Properties": {
 						"id": "20211226121454-mk5pevf",
-						"updated": "20211228141205"
+						"updated": "20220510104240"
 					},
 					"Children": [
 						{
@@ -475,7 +477,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226121454-s9uvmqy",
-								"updated": "20211228141205"
+								"updated": "20220510104240"
 							},
 							"Children": [
 								{
@@ -511,7 +513,7 @@
 										},
 										{
 											"Type": "NodeCodeSpanContent",
-											"Data": "工作空間/.siyuan/history/"
+											"Data": "工作空間/history/"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"
@@ -548,7 +550,15 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "如果雲端版本小於本地，則掃描 "
+									"Data": "如果"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "雲端"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "版本小於本地，則掃描 "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -588,7 +598,96 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " 文件夾下，最後進行上傳並覆蓋雲端資料"
+									"Data": " 文件夾下，最後進行上傳並覆蓋"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "雲端"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "資料"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220510105029-rawx8il",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220510105029-rawx8il",
+				"updated": "20220510105029"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "版本對比每隔一段時間自動進行，時間間隔算法描述如下："
+				}
+			]
+		},
+		{
+			"ID": "20220510105029-d1ufczf",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220510105029-d1ufczf",
+				"updated": "20220510105029"
+			},
+			"Children": [
+				{
+					"ID": "20220510105029-4ri0ne0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220510105029-4ri0ne0",
+						"updated": "20220510105029"
+					},
+					"Children": [
+						{
+							"ID": "20220510105029-8rsvfuv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220510105029-8rsvfuv",
+								"updated": "20220510105029"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "數據變動後 30 秒如果不再發生變動則進行一次對比，如果繼續發生變動則順延 30 秒"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220510105029-rdxn16v",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220510105029-rdxn16v",
+						"updated": "20220510105029"
+					},
+					"Children": [
+						{
+							"ID": "20220510105029-7q5kg5g",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220510105029-7q5kg5g",
+								"updated": "20220510105029"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "沒有數據變動則按 5 分鐘、8 分鐘、16 分鐘、32 分鐘……遞增間隔"
 								}
 							]
 						}
