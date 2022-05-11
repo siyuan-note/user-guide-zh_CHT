@@ -5,7 +5,7 @@
 		"icon": "1f4c4",
 		"id": "20211226114339-dk0gtpr",
 		"title": "隱私政策和用戶協議",
-		"updated": "20220227105610"
+		"updated": "20220511113836"
 	},
 	"Children": [
 		{
@@ -3323,7 +3323,7 @@
 			},
 			"Properties": {
 				"id": "20220212225553-ud2rl66",
-				"updated": "20220219101327"
+				"updated": "20220511113836"
 			},
 			"Children": [
 				{
@@ -3336,7 +3336,8 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20220212225553-f6kv8c6"
+						"id": "20220212225553-f6kv8c6",
+						"updated": "20220212225614"
 					},
 					"Children": [
 						{
@@ -3349,7 +3350,15 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "您可利用“分享”鍵將某些內容分享到第三方平台（如微信），或您可利用第三方服務登錄思源筆記云端服務。這些功能可能會收集您的個人信息（包括您的日誌信息），並可能在您的電腦裝置 Cookie，從而正常運行上述功能；"
+									"Data": "您可利用“分享”鍵將某些內容分享到第三方平台（如微信），或您可利用第三方服務登錄思源筆記"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "云端"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "服務。這些功能可能會收集您的個人信息（包括您的日誌信息），並可能在您的電腦裝置 Cookie，從而正常運行上述功能；"
 								}
 							]
 						}
@@ -3365,7 +3374,8 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20220212225621-g467ial"
+						"id": "20220212225621-g467ial",
+						"updated": "20220212225624"
 					},
 					"Children": [
 						{
@@ -3418,7 +3428,8 @@
 					"ID": "20220212225609-r4fqaio",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-r4fqaio"
+						"id": "20220212225609-r4fqaio",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3431,7 +3442,8 @@
 					"ID": "20220212225609-cmop0du",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-cmop0du"
+						"id": "20220212225609-cmop0du",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3444,7 +3456,8 @@
 					"ID": "20220212225609-2bungck",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-2bungck"
+						"id": "20220212225609-2bungck",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3457,7 +3470,8 @@
 					"ID": "20220212225609-ldb77xo",
 					"Type": "NodeBlockquote",
 					"Properties": {
-						"id": "20220212225609-ldb77xo"
+						"id": "20220212225609-ldb77xo",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3468,7 +3482,8 @@
 							"ID": "20220212225609-yvlbtez",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220212225609-yvlbtez"
+								"id": "20220212225609-yvlbtez",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
@@ -3481,7 +3496,8 @@
 							"ID": "20220212225609-t3b86yq",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220212225609-t3b86yq"
+								"id": "20220212225609-t3b86yq",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
@@ -3494,7 +3510,8 @@
 							"ID": "20220212225609-2x2rh86",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220212225609-2x2rh86"
+								"id": "20220212225609-2x2rh86",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
@@ -3533,7 +3550,8 @@
 							"ID": "20220212225609-sdggyco",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220212225609-sdggyco"
+								"id": "20220212225609-sdggyco",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
@@ -3546,7 +3564,8 @@
 							"ID": "20220212225609-qi9dahc",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220212225609-qi9dahc"
+								"id": "20220212225609-qi9dahc",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
@@ -3606,7 +3625,8 @@
 					"Type": "NodeHeading",
 					"HeadingLevel": 3,
 					"Properties": {
-						"id": "20220212225609-g4kp40y"
+						"id": "20220212225609-g4kp40y",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3619,7 +3639,8 @@
 					"ID": "20220212225609-y6tqyth",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-y6tqyth"
+						"id": "20220212225609-y6tqyth",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3632,7 +3653,8 @@
 					"ID": "20220212225609-olbdzs4",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-olbdzs4"
+						"id": "20220212225609-olbdzs4",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3645,7 +3667,8 @@
 					"ID": "20220212225609-mwpaq26",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-mwpaq26"
+						"id": "20220212225609-mwpaq26",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3673,7 +3696,8 @@
 					"Type": "NodeList",
 					"ListData": {},
 					"Properties": {
-						"id": "20220212225609-irfvmvz"
+						"id": "20220212225609-irfvmvz",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3684,14 +3708,16 @@
 								"Marker": "Kg=="
 							},
 							"Properties": {
-								"id": "20220212225609-5jwia5n"
+								"id": "20220212225609-5jwia5n",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
 									"ID": "20220212225609-7z9vy2o",
 									"Type": "NodeParagraph",
 									"Properties": {
-										"id": "20220212225609-7z9vy2o"
+										"id": "20220212225609-7z9vy2o",
+										"updated": "20220212225609"
 									},
 									"Children": [
 										{
@@ -3728,14 +3754,16 @@
 								"Marker": "Kg=="
 							},
 							"Properties": {
-								"id": "20220212225609-q1uwt2u"
+								"id": "20220212225609-q1uwt2u",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
 									"ID": "20220212225609-x6zxnw5",
 									"Type": "NodeParagraph",
 									"Properties": {
-										"id": "20220212225609-x6zxnw5"
+										"id": "20220212225609-x6zxnw5",
+										"updated": "20220212225609"
 									},
 									"Children": [
 										{
@@ -3772,14 +3800,16 @@
 								"Marker": "Kg=="
 							},
 							"Properties": {
-								"id": "20220212225609-ips2ek8"
+								"id": "20220212225609-ips2ek8",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
 									"ID": "20220212225609-i4aq0hw",
 									"Type": "NodeParagraph",
 									"Properties": {
-										"id": "20220212225609-i4aq0hw"
+										"id": "20220212225609-i4aq0hw",
+										"updated": "20220212225609"
 									},
 									"Children": [
 										{
@@ -3814,7 +3844,8 @@
 					"ID": "20220212225609-b4o5yz1",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-b4o5yz1"
+						"id": "20220212225609-b4o5yz1",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3842,7 +3873,8 @@
 					"Type": "NodeList",
 					"ListData": {},
 					"Properties": {
-						"id": "20220212225609-19rslg9"
+						"id": "20220212225609-19rslg9",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3853,14 +3885,16 @@
 								"Marker": "Kg=="
 							},
 							"Properties": {
-								"id": "20220212225609-vn2ec3f"
+								"id": "20220212225609-vn2ec3f",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
 									"ID": "20220212225609-7g36mga",
 									"Type": "NodeParagraph",
 									"Properties": {
-										"id": "20220212225609-7g36mga"
+										"id": "20220212225609-7g36mga",
+										"updated": "20220212225609"
 									},
 									"Children": [
 										{
@@ -3897,14 +3931,16 @@
 								"Marker": "Kg=="
 							},
 							"Properties": {
-								"id": "20220212225609-drnx1o3"
+								"id": "20220212225609-drnx1o3",
+								"updated": "20220212225609"
 							},
 							"Children": [
 								{
 									"ID": "20220212225609-2p21gp0",
 									"Type": "NodeParagraph",
 									"Properties": {
-										"id": "20220212225609-2p21gp0"
+										"id": "20220212225609-2p21gp0",
+										"updated": "20220212225609"
 									},
 									"Children": [
 										{
@@ -3940,7 +3976,8 @@
 					"Type": "NodeHeading",
 					"HeadingLevel": 3,
 					"Properties": {
-						"id": "20220212225609-19q32p2"
+						"id": "20220212225609-19q32p2",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3953,12 +3990,29 @@
 					"ID": "20220212225609-n3ctiy6",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-n3ctiy6"
+						"id": "20220212225609-n3ctiy6",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
 							"Type": "NodeText",
-							"Data": "我們可能適時修改本《隱私政策》的條款，該等修改構成本《隱私政策》的一部分。對於重大變更，我們會提供更顯著的通知，您如果不同意該等變更，可以選擇停止使用思源筆記云端服務；如您仍然繼續使用思源筆記云端服務的，即表示同意受經修訂的本《隱私政策》的約束。"
+							"Data": "我們可能適時修改本《隱私政策》的條款，該等修改構成本《隱私政策》的一部分。對於重大變更，我們會提供更顯著的通知，您如果不同意該等變更，可以選擇停止使用思源筆記"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "云端"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "服務；如您仍然繼續使用思源筆記"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "云端"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "服務的，即表示同意受經修訂的本《隱私政策》的約束。"
 						}
 					]
 				},
@@ -3966,12 +4020,21 @@
 					"ID": "20220212225609-n4er0fa",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-n4er0fa"
+						"id": "20220212225609-n4er0fa",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
 							"Type": "NodeText",
-							"Data": "我們鼓勵您在每次使用思源筆記云端服務時都查閱我們的隱私政策。"
+							"Data": "我們鼓勵您在每次使用思源筆記"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "云端"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "服務時都查閱我們的隱私政策。"
 						}
 					]
 				},
@@ -3979,7 +4042,8 @@
 					"ID": "20220212225609-hje65di",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-hje65di"
+						"id": "20220212225609-hje65di",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -3992,7 +4056,8 @@
 					"ID": "20220212225609-rxbzp3d",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-rxbzp3d"
+						"id": "20220212225609-rxbzp3d",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -4006,7 +4071,8 @@
 					"Type": "NodeHeading",
 					"HeadingLevel": 3,
 					"Properties": {
-						"id": "20220212225609-sdic9qb"
+						"id": "20220212225609-sdic9qb",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -4019,7 +4085,8 @@
 					"ID": "20220212225609-v88ahq2",
 					"Type": "NodeParagraph",
 					"Properties": {
-						"id": "20220212225609-v88ahq2"
+						"id": "20220212225609-v88ahq2",
+						"updated": "20220212225609"
 					},
 					"Children": [
 						{
@@ -4040,6 +4107,34 @@
 						{
 							"Type": "NodeText",
 							"Data": "用戶協議"
+						}
+					]
+				},
+				{
+					"ID": "20220511113836-twa99rf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220511113836-twa99rf",
+						"updated": "20220511113836"
+					},
+					"Children": [
+						{
+							"ID": "20220511113836-dhaokke",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220511113836-dhaokke",
+								"updated": "20220511113836"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "發布日期：2022 年 2 月 11 日"
+								}
+							]
 						}
 					]
 				},
@@ -4081,7 +4176,15 @@
 					"Children": [
 						{
 							"Type": "NodeText",
-							"Data": "在享有條款授予的權力的同時，受到相關的約束和限制。協議許可範圍以外的行為，將直接違反本協議並構成侵權，我們有權隨時終止授權，責令停止損害，並保留追究相關責任的權力。"
+							"Data": "在享有條款授予的權力的同時，受到相關的約束和"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "限制"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。協議許可範圍以外的行為，將直接違反本協議並構成侵權，我們有權隨時終止授權，責令停止損害，並保留追究相關責任的權力。"
 						}
 					]
 				},
@@ -4101,7 +4204,7 @@
 					]
 				},
 				{
-					"ID": "20220219101327-yo9oz1y",
+					"ID": "20220511113820-fwgcxhr",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -4110,15 +4213,16 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20220219101327-yo9oz1y",
-						"updated": "20220219101327"
+						"id": "20220511113820-fwgcxhr",
+						"updated": "20220511113820"
 					},
 					"Children": [
 						{
-							"ID": "20220219101327-hrwo5xm",
+							"ID": "20220511113820-14zy4is",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220219101327-hrwo5xm"
+								"id": "20220511113820-14zy4is",
+								"updated": "20220511113820"
 							},
 							"Children": [
 								{
@@ -4140,12 +4244,16 @@
 					"Children": [
 						{
 							"Type": "NodeText",
-							"Data": "協議規定的約束和限制"
+							"Data": "協議規定的約束和"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "限制"
 						}
 					]
 				},
 				{
-					"ID": "20220219101327-cg01z56",
+					"ID": "20220511113804-hd2wvlx",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -4154,15 +4262,16 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20220219101327-cg01z56",
-						"updated": "20220219101327"
+						"id": "20220511113804-hd2wvlx",
+						"updated": "20220511113804"
 					},
 					"Children": [
 						{
-							"ID": "20220219101327-omnrryg",
+							"ID": "20220511113804-jvi5ugm",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220219101327-omnrryg"
+								"id": "20220511113804-jvi5ugm",
+								"updated": "20220511113804"
 							},
 							"Children": [
 								{
