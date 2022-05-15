@@ -135,40 +135,6 @@
 					]
 				}
 			]
-		},
-		{
-			"ID": "20211226121514-3o4937u",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20211226121514-3o4937u",
-				"updated": "20211226121514"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "空間大小可通過推薦新的付費訂閱用戶進行擴容，每推薦一個新訂閱用戶，則雙方都獎勵 500M 存儲空間以及延長 7 天使用。每個賬號的推薦上限次數為 32 次，也就是說理論上可以免費擴容到 "
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "24G"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": "。"
-				}
-			]
 		}
 	]
 }
