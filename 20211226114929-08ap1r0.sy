@@ -5,7 +5,7 @@
 		"icon": "1f64f",
 		"id": "20211226114929-08ap1r0",
 		"title": "致謝",
-		"updated": "20220511113333"
+		"updated": "20220517143751"
 	},
 	"Children": [
 		{
@@ -28,7 +28,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20220326092650-r61gazd",
-				"updated": "20220511113333"
+				"updated": "20220517143751"
 			},
 			"Children": [
 				{
@@ -250,7 +250,7 @@
 					},
 					"Properties": {
 						"id": "20220326092650-2zjypt2",
-						"updated": "20220326092650"
+						"updated": "20220517143751"
 					},
 					"Children": [
 						{
@@ -258,7 +258,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20220326092650-4e4k9wz",
-								"updated": "20220326092650"
+								"updated": "20220517143751"
 							},
 							"Children": [
 								{
@@ -270,7 +270,7 @@
 										},
 										{
 											"Type": "NodeLinkText",
-											"Data": "https://github.com/88250/flock"
+											"Data": "https://github.com/gofrs/flock"
 										},
 										{
 											"Type": "NodeCloseBracket"
@@ -670,7 +670,7 @@
 					},
 					"Properties": {
 						"id": "20220326092650-s3miqvl",
-						"updated": "20220326092650"
+						"updated": "20220517143747"
 					},
 					"Children": [
 						{
@@ -678,7 +678,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20220326092650-y3b0txg",
-								"updated": "20220326092650"
+								"updated": "20220517143747"
 							},
 							"Children": [
 								{
@@ -690,7 +690,7 @@
 										},
 										{
 											"Type": "NodeLinkText",
-											"Data": "https://github.com/88250/vitess-sqlparser"
+											"Data": "https://github.com/blastrain/vitess-sqlparser"
 										},
 										{
 											"Type": "NodeCloseBracket"
@@ -861,76 +861,6 @@
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "MIT License"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20220326092650-mddhgpd",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20220326092650-mddhgpd",
-						"updated": "20220326092650"
-					},
-					"Children": [
-						{
-							"ID": "20220326092650-5ewkl8c",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20220326092650-5ewkl8c",
-								"updated": "20220326092650"
-							},
-							"Children": [
-								{
-									"Type": "NodeLink",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "https://github.com/Xuanwo/go-locale"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://github.com/Xuanwo/go-locale"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": " "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "Apache-2.0 License"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"
