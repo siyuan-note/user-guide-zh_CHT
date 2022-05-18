@@ -5,7 +5,7 @@
 		"icon": "2328",
 		"id": "20211226122549-jktxego",
 		"title": "快捷鍵",
-		"updated": "20220405215436"
+		"updated": "20220518105130"
 	},
 	"Children": [
 		{
@@ -6228,8 +6228,9 @@
 				0
 			],
 			"Properties": {
+				"colgroup": "||",
 				"id": "20211226122652-v6as45b",
-				"updated": "20211226152948"
+				"updated": "20220518105130"
 			},
 			"Children": [
 				{
@@ -7011,10 +7012,97 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
+							"Properties": {
+								"colspan": "1"
+							},
 							"Children": [
 								{
 									"Type": "NodeText",
 									"Data": "字體設置"
+								}
+							]
+						},
+						{
+							"Type": "NodeKramdownSpanIAL",
+							"Data": "{: colspan=\"1\"}"
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Properties": {
+								"colspan": "1"
+							},
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Ctrl+Alt+X"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⌥⌘X"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Type": "NodeKramdownSpanIAL",
+							"Data": "{: colspan=\"1\"}"
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Properties": {
+								"colspan": "1"
+							}
+						},
+						{
+							"Type": "NodeKramdownSpanIAL",
+							"Data": "{: colspan=\"1\"}"
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"Data": "tr",
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "最近使用過的字體"
+								},
+								{
+									"Type": "NodeBr",
+									"Data": "br"
 								}
 							]
 						},
@@ -7065,8 +7153,8 @@
 							"Data": "td",
 							"Children": [
 								{
-									"Type": "NodeText",
-									"Data": "將選中內容設置為最近一次使用過的字體樣式"
+									"Type": "NodeBr",
+									"Data": "br"
 								}
 							]
 						}
