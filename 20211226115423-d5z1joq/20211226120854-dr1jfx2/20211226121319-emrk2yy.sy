@@ -5,7 +5,7 @@
 		"id": "20211226121319-emrk2yy",
 		"title": "排版元素",
 		"title-img": "background-color: hsl(2, 57%, 40%);background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);",
-		"updated": "20211226122008"
+		"updated": "20220521234434"
 	},
 	"Children": [
 		{
@@ -29,7 +29,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20211226122008-1e014nh",
-				"updated": "20220115193755"
+				"updated": "20220521234434"
 			},
 			"Children": [
 				{
@@ -143,7 +143,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-aswl5xl"
+						"id": "20211226122008-aswl5xl",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -151,7 +152,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-fwnb34p",
-								"updated": "20210604220847"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -184,7 +185,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-9fyegcb"
+						"id": "20211226122008-9fyegcb",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -192,7 +194,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-09xokzu",
-								"updated": "20211226001438"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -226,7 +228,7 @@
 					},
 					"Properties": {
 						"id": "20211226122008-h3pjx8d",
-						"updated": "20210604220832"
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -234,7 +236,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-0gl92t6",
-								"updated": "20211226001454"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -266,7 +268,7 @@
 					},
 					"Properties": {
 						"id": "20211226122008-22zsx6v",
-						"updated": "20210604224505"
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -274,7 +276,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-u4o97zi",
-								"updated": "20211226001512"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -305,7 +307,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-7v4iue0"
+						"id": "20211226122008-7v4iue0",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -313,7 +316,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-8daiz4s",
-								"updated": "20211226001518"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -344,7 +347,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-h3hinwr"
+						"id": "20211226122008-h3hinwr",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -352,7 +356,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-2xsn4ew",
-								"updated": "20211226001534"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -383,7 +387,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-1i1080w"
+						"id": "20211226122008-1i1080w",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -391,7 +396,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-4noptkx",
-								"updated": "20211226001536"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -422,7 +427,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-lrx2o2w"
+						"id": "20211226122008-lrx2o2w",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -430,7 +436,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-j7ct7fv",
-								"updated": "20211226001619"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -461,7 +467,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-nec7et6"
+						"id": "20211226122008-nec7et6",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -469,7 +476,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-ouwfc9u",
-								"updated": "20211226001627"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -504,7 +511,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226122008-dwvi51s"
+						"id": "20211226122008-dwvi51s",
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -512,7 +520,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-f8vr0tu",
-								"updated": "20211226001646"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -544,7 +552,7 @@
 					},
 					"Properties": {
 						"id": "20211226122008-nmf9z6n",
-						"updated": "20210604224723"
+						"updated": "20211226122008"
 					},
 					"Children": [
 						{
@@ -552,7 +560,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-xpsbt6d",
-								"updated": "20210604224723"
+								"updated": "20211226122008"
 							},
 							"Children": [
 								{
@@ -588,7 +596,7 @@
 					},
 					"Properties": {
 						"id": "20211226122008-hd9rbv6",
-						"updated": "20220115193031"
+						"updated": "20220521234434"
 					},
 					"Children": [
 						{
@@ -596,13 +604,9 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226122008-c4u7dl5",
-								"updated": "20211226001759"
+								"updated": "20220521234434"
 							},
 							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "顏"
-								},
 								{
 									"Type": "NodeStrong",
 									"Data": "strong",
@@ -616,7 +620,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "色 1"
+											"Data": "顏色 1"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -645,7 +649,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 2"
+											"Data": "顏色 2"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -674,7 +678,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 3"
+											"Data": "顏色 3"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -703,7 +707,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 4"
+											"Data": "顏色 4"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -732,7 +736,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 5"
+											"Data": "顏色 5"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -761,7 +765,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 6"
+											"Data": "顏色 6"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -790,7 +794,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 7"
+											"Data": "顏色 7"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -819,7 +823,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 8"
+											"Data": "顏色 8"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -848,7 +852,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 9"
+											"Data": "顏色 9"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -868,6 +872,35 @@
 									"Type": "NodeStrong",
 									"Data": "strong",
 									"Properties": {
+										"style": "color: var(--b3-font-color10); background-color: var(--b3-font-background10);"
+									},
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "顏色 10"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeKramdownSpanIAL",
+									"Data": "{: style=\"color: var(--b3-font-color10); background-color: var(--b3-font-background10);\"}"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " "
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Properties": {
 										"style": "color: var(--b3-font-color11); background-color: var(--b3-font-background11);"
 									},
 									"Children": [
@@ -877,7 +910,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 10"
+											"Data": "顏色 11"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -897,7 +930,7 @@
 									"Type": "NodeStrong",
 									"Data": "strong",
 									"Properties": {
-										"style": "color: var(--b3-font-color12); background-color: var(--b3-font-background12);"
+										"style": "background-color: var(--b3-font-background12);"
 									},
 									"Children": [
 										{
@@ -906,7 +939,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 11"
+											"Data": "顏色 12"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -916,7 +949,7 @@
 								},
 								{
 									"Type": "NodeKramdownSpanIAL",
-									"Data": "{: style=\"color: var(--b3-font-color12); background-color: var(--b3-font-background12);\"}"
+									"Data": "{: style=\"background-color: var(--b3-font-background12);\"}"
 								},
 								{
 									"Type": "NodeText",
@@ -935,7 +968,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "颜色 12"
+											"Data": "顏色 13"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -946,35 +979,6 @@
 								{
 									"Type": "NodeKramdownSpanIAL",
 									"Data": "{: style=\"color: var(--b3-font-color13); background-color: var(--b3-font-background13);\"}"
-								},
-								{
-									"Type": "NodeText",
-									"Data": " "
-								},
-								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Properties": {
-										"style": "color: var(--b3-font-color10); background-color: var(--b3-font-background10);"
-									},
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "颜色 13"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
-								},
-								{
-									"Type": "NodeKramdownSpanIAL",
-									"Data": "{: style=\"color: var(--b3-font-color10); background-color: var(--b3-font-background10);\"}"
 								}
 							]
 						},
